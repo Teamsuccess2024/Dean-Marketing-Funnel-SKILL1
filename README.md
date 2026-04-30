@@ -11,7 +11,7 @@ Here's how the skill is organized:
 
 **dean-funnel-builder/**
 
-├── **SKILL.md**                          (master instructions)
+├── **SKILL.md**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(master instructions)
 
 ├── **references/**
 
