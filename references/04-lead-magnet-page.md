@@ -1,4 +1,4 @@
-**lead-magnet-page.md**
+**dean-funnel-builder/references/lead-magnet-page.md**
 
 **PURPOSE OF THIS FILE**
 
@@ -18,7 +18,7 @@ Most lead magnet pages try to do too much. They include navigation menus, social
 
 Dean's lead magnet pages do **one thing only**: capture the email in exchange for a specific, named, valuable thing.
 
-The structural insight: every additional element on a lead magnet page is a path _off_ the page. Every link, every menu item, every social icon, every "learn more" sidebar reduces conversion. The lead magnet page that converts at 50% has fewer elements than the lead magnet page that converts at 12% - not because the high-converter is more polished, but because it has _removed every distraction that wasn't essential to the single conversion event._
+The structural insight: every additional element on a lead magnet page is a path *off* the page. Every link, every menu item, every social icon, every "learn more" sidebar reduces conversion. The lead magnet page that converts at 50% has fewer elements than the lead magnet page that converts at 12% - not because the high-converter is more polished, but because it has *removed every distraction that wasn't essential to the single conversion event.*
 
 The Dean discipline: **everything that is not the headline, the bullets, or the form gets cut.** No exceptions for "but the brand needs..." or "but the SEO needs..." or "but the user might want to..." If the element doesn't directly contribute to the email capture, it doesn't belong on this page.
 
@@ -40,7 +40,7 @@ Authority is built in the email sequence. Brand is established in the long-term 
 
 The single-minded focus on email capture is what produces 40-50% conversion rates. Pages that try to do anything else - even legitimate-sounding things like "establish trust" - convert worse, because every additional ambition adds friction.
 
-When in doubt about whether to include an element, ask: _does this element directly help capture the email?_ If yes, include it. If "kind of" or "maybe later," cut it.
+When in doubt about whether to include an element, ask: *does this element directly help capture the email?* If yes, include it. If "kind of" or "maybe later," cut it.
 
 **THE FIVE-COMPONENT STRUCTURE**
 
@@ -56,22 +56,22 @@ Despite the radical minimalism, the lead magnet page is not formless. It has a s
 
 The headline is doing two simultaneous jobs that most opt-in headlines fail to do together:
 
-**Job A:** _Confirm relevance._ The visitor just clicked an ad. In the 1-2 seconds the page loads, their unconscious is asking _"is this where I meant to go?"_ The headline must answer yes immediately.
+**Job A:** *Confirm relevance.* The visitor just clicked an ad. In the 1-2 seconds the page loads, their unconscious is asking *"is this where I meant to go?"* The headline must answer yes immediately.
 
-**Job B:** _State the offer._ The visitor needs to see exactly what they get in exchange for their email. Vague offers ("a free guide") underperform specific offers ("5 free Christian books on suffering") at roughly half the conversion rate.
+**Job B:** *State the offer.* The visitor needs to see exactly what they get in exchange for their email. Vague offers ("a free guide") underperform specific offers ("5 free Christian books on suffering") at roughly half the conversion rate.
 
 **Strong headline examples:**
 
-- _"5 Free Christian Books On Why God Allows Suffering - Yours Instantly"_
-- _"The Free 47-Page Guide To Christian Sales For Faith-Based Business Owners"_
-- _"Get The 'Purpose In Your Pain' Starter Library - 5 Books, Free"_
+* *"5 Free Christian Books On Why God Allows Suffering - Yours Instantly"*
+* *"The Free 47-Page Guide To Christian Sales For Faith-Based Business Owners"*
+* *"Get The 'Purpose In Your Pain' Starter Library - 5 Books, Free"*
 
 **Weak headline examples:**
 
-- _"Get Free Resources!"_ (vague, generic)
-- _"Subscribe To Our Newsletter"_ (no specific offer)
-- _"Welcome To TeamSuccessNetwork"_ (brand-first, not offer-first)
-- _"Transform Your Faith Today"_ (claim-based, not offer-based)
+* *"Get Free Resources!"* (vague, generic)
+* *"Subscribe To Our Newsletter"* (no specific offer)
+* *"Welcome To TeamSuccessNetwork"* (brand-first, not offer-first)
+* *"Transform Your Faith Today"* (claim-based, not offer-based)
 
 **Component 2: The Subheadline**
 
@@ -79,21 +79,21 @@ The headline is doing two simultaneous jobs that most opt-in headlines fail to d
 
 **Format:** Smaller than the headline but still prominent. 12-25 words. One sentence, often emotionally resonant.
 
-**Voice rules:** This is where the visitor's specific pain or aspiration gets named in shorthand. The subheadline turns the offer from a generic deliverable into a _specific solution to a specific situation._
+**Voice rules:** This is where the visitor's specific pain or aspiration gets named in shorthand. The subheadline turns the offer from a generic deliverable into a *specific solution to a specific situation.*
 
 **Strong subheadline examples:**
 
-- _"Real biblical answers for the questions you're actually asking at 3am."_
-- _"The framework I wish someone had handed me in my hardest year."_
-- _"Plain-language teaching for Christians who are tired of being told to 'just trust God.'"_
+* *"Real biblical answers for the questions you're actually asking at 3am."*
+* *"The framework I wish someone had handed me in my hardest year."*
+* *"Plain-language teaching for Christians who are tired of being told to 'just trust God.'"*
 
 **Weak subheadline examples:**
 
-- _"Sign up below to get instant access."_ (procedural, not emotional)
-- _"Our most popular content, all in one place."_ (brand-focused, not visitor-focused)
-- _"You'll love these books!"_ (claim, not connection)
+* *"Sign up below to get instant access."* (procedural, not emotional)
+* *"Our most popular content, all in one place."* (brand-focused, not visitor-focused)
+* *"You'll love these books!"* (claim, not connection)
 
-The headline names _what the visitor gets_. The subheadline names _why the visitor needs it._ Together they cover the rational and emotional axes of the conversion decision.
+The headline names *what the visitor gets*. The subheadline names *why the visitor needs it.* Together they cover the rational and emotional axes of the conversion decision.
 
 **Component 3: The "What You Get" Bullets**
 
@@ -101,23 +101,23 @@ The headline names _what the visitor gets_. The subheadline names _why the visit
 
 **Format:** 3-5 bullet points. Each bullet is one full sentence. Visual list with simple bullet markers (•, ✓, or 📖 - match the voice/aesthetic).
 
-**Voice rules:** Each bullet describes an _outcome or revelation_, not a label. _"Why Joseph's pit reveals God's pattern for promotion"_ is an outcome. _"Joseph's Pit, 50 pages"_ is a label. Outcomes convert; labels do not.
+**Voice rules:** Each bullet describes an *outcome or revelation*, not a label. *"Why Joseph's pit reveals God's pattern for promotion"* is an outcome. *"Joseph's Pit, 50 pages"* is a label. Outcomes convert; labels do not.
 
-**Critical rule:** Bullets stack the _value_ of the free thing without overpromising. The visitor must believe the bullets are achievable from reading the offered material - otherwise the bullets read as hype and conversion drops.
+**Critical rule:** Bullets stack the *value* of the free thing without overpromising. The visitor must believe the bullets are achievable from reading the offered material - otherwise the bullets read as hype and conversion drops.
 
 **Strong bullet examples:**
 
-- _"📖 Why God lets you be betrayed before He promotes you (Joseph's pattern explained)"_
-- _"📖 What Jesus meant when He said 'in this world you will have trouble' - and why most Christians miss it"_
-- _"📖 The single Scripture that reframed suffering for thousands of believers"_
-- _"📖 Why the most anointed people in Scripture were always the most crushed"_
-- _"📖 The difference between coping with pain and being shaped by it"_
+* *"📖 Why God lets you be betrayed before He promotes you (Joseph's pattern explained)"*
+* *"📖 What Jesus meant when He said 'in this world you will have trouble' - and why most Christians miss it"*
+* *"📖 The single Scripture that reframed suffering for thousands of believers"*
+* *"📖 Why the most anointed people in Scripture were always the most crushed"*
+* *"📖 The difference between coping with pain and being shaped by it"*
 
 **Weak bullet examples:**
 
-- _"Book 1: Joseph's Pit"_ (label, not outcome)
-- _"Powerful insights into faith"_ (vague claim)
-- _"Life-changing teaching"_ (hype)
+* *"Book 1: Joseph's Pit"* (label, not outcome)
+* *"Powerful insights into faith"* (vague claim)
+* *"Life-changing teaching"* (hype)
 
 **Number of bullets:** Three to five is the optimal range. Below three feels thin. Above five becomes overwhelming and reduces conversion (visitors stop reading and drift to the close button).
 
@@ -131,21 +131,21 @@ The headline names _what the visitor gets_. The subheadline names _why the visit
 
 **One field only.** Asking for first name in addition to email cuts conversion 5-10%. Asking for phone number cuts conversion 30-50%. Asking for full name plus other fields cuts conversion 50-70%. Email only is the standard. If the funnel desperately needs a first name, capture it on the thank-you page or in the first email reply, not on the lead magnet page.
 
-**Button text matters more than most marketers realize.** Generic button text (_"Submit," "Subscribe," "Sign Up"_) converts worse than benefit-focused button text (_"Send Me The Free Books," "Get Instant Access," "Yes - Send Them Now"_).
+**Button text matters more than most marketers realize.** Generic button text (*"Submit," "Subscribe," "Sign Up"*) converts worse than benefit-focused button text (*"Send Me The Free Books," "Get Instant Access," "Yes - Send Them Now"*).
 
 **Strong button text:**
 
-- _"Send Me The Free Books"_
-- _"Yes - I Want These"_
-- _"Get Instant Access"_
-- _"Send Them To My Inbox"_
+* *"Send Me The Free Books"*
+* *"Yes - I Want These"*
+* *"Get Instant Access"*
+* *"Send Them To My Inbox"*
 
 **Weak button text:**
 
-- _"Submit"_
-- _"Subscribe"_
-- _"Sign Up"_
-- _"Click Here"_
+* *"Submit"*
+* *"Subscribe"*
+* *"Sign Up"*
+* *"Click Here"*
 
 **Form placement:** The form should appear above the fold on desktop and within the first scroll on mobile. Visitors who have to scroll to find the form convert at meaningfully lower rates than visitors who see it immediately.
 
@@ -161,15 +161,15 @@ The headline names _what the visitor gets_. The subheadline names _why the visit
 
 **Strong microcopy examples:**
 
-- _"Instant download. No spam, ever. Unsubscribe anytime."_
-- _"Books in your inbox in 2 minutes. No catch."_
-- _"Free forever. Your email is safe with me."_
+* *"Instant download. No spam, ever. Unsubscribe anytime."*
+* *"Books in your inbox in 2 minutes. No catch."*
+* *"Free forever. Your email is safe with me."*
 
 **Weak microcopy examples:**
 
-- _"By submitting this form you agree to our terms..."_ (legal, not trust-building)
-- _"We will not share your information."_ (corporate)
-- _"100% Privacy Guaranteed!"_ (hype, not credibility)
+* *"By submitting this form you agree to our terms..."* (legal, not trust-building)
+* *"We will not share your information."* (corporate)
+* *"100% Privacy Guaranteed!"* (hype, not credibility)
 
 The microcopy is small but disproportionately important. Most visitors briefly hesitate before submitting an email - the microcopy is what tips them across the line.
 
@@ -183,7 +183,7 @@ Beyond the five core components, three optional elements can sometimes lift conv
 
 **Format:** A small headshot photo with a one-sentence credibility line. Placed below the form, not above it.
 
-**Strong example:** _"Written by \[Name\], author of 200+ Christian books at TeamSuccessNetwork.com."_
+**Strong example:** *"Written by \[Name], author of 200+ Christian books at TeamSuccessNetwork.com."*
 
 **When to omit:** When the founder is unknown to the audience and adding a face slows the page down without adding trust. For brand-new funnels with cold traffic, often best to omit until the founder has built recognition.
 
@@ -195,15 +195,15 @@ Beyond the five core components, three optional elements can sometimes lift conv
 
 **Strong examples:**
 
-- _"Already downloaded by over 12,000 Christians in the last 6 months."_
-- _"Featured on \[specific podcast or publication\]."_
-- _"Used as a pastoral resource by 200+ churches."_
+* *"Already downloaded by over 12,000 Christians in the last 6 months."*
+* *"Featured on \[specific podcast or publication]."*
+* *"Used as a pastoral resource by 200+ churches."*
 
 **Weak examples:**
 
-- _"Loved by readers everywhere!"_ (vague)
-- _"#1 Christian resource"_ (unverifiable claim)
-- _"Thousands of happy subscribers"_ (hype)
+* *"Loved by readers everywhere!"* (vague)
+* *"#1 Christian resource"* (unverifiable claim)
+* *"Thousands of happy subscribers"* (hype)
 
 **When to omit:** When the proof point is weak, vague, or unverifiable. **Bad social proof is worse than no social proof** - it triggers skepticism that contaminates the rest of the page.
 
@@ -213,13 +213,13 @@ Beyond the five core components, three optional elements can sometimes lift conv
 
 **Format:** A 1-3 sentence direct address from the founder, placed below the form. Often in italics or as a "signed note."
 
-**Strong example:** _"Hi - I'm \[Name\]. I've spent the last 10 years writing on this. These 5 books are the ones I'd hand to anyone in a hard season. They're yours, free."_
+**Strong example:** *"Hi - I'm \[Name]. I've spent the last 10 years writing on this. These 5 books are the ones I'd hand to anyone in a hard season. They're yours, free."*
 
 **When to omit:** Most of the time. The greeting often doubles content already covered in the headline and subheadline. If included, it must add new emotional information, not repeat existing copy.
 
 **ELEMENTS THAT MUST NOT APPEAR ON A LEAD MAGNET PAGE**
 
-The discipline of the page is defined as much by what's _removed_ as by what's included. The following elements should not appear on a Dean-style lead magnet page under any circumstances:
+The discipline of the page is defined as much by what's *removed* as by what's included. The following elements should not appear on a Dean-style lead magnet page under any circumstances:
 
 **Navigation menus.** Every menu item is a path off the page. Remove the entire menu. The page has one purpose.
 
@@ -229,7 +229,7 @@ The discipline of the page is defined as much by what's _removed_ as by what's i
 
 **Multiple offers.** If the page offers both a free download AND a paid product, conversion on the free download drops 30-50%. One offer per page.
 
-**Blog post snippets or "recent articles" sections.** These signal _"this is a website"_ rather than _"this is a focused conversion event."_ Remove.
+**Blog post snippets or "recent articles" sections.** These signal *"this is a website"* rather than *"this is a focused conversion event."* Remove.
 
 **Long author bios.** The visitor doesn't need the founder's life story to opt in. A one-line credibility note is the maximum.
 
@@ -253,7 +253,7 @@ The voice rules from voice-guide.md apply, with these specific adaptations for t
 
 **Maximum compression.** The page may have 80-200 words of total prose. Every word must earn its place. Cut adjectives, qualifiers, and any sentence that doesn't directly serve the conversion event.
 
-**Maximum specificity.** With so little surface area, vagueness is fatal. Every noun should be concrete. _"5 books"_ not _"resources."_ _"3am"_ not _"in your hardest moments."_ _"30 pages"_ not _"a substantial guide."_
+**Maximum specificity.** With so little surface area, vagueness is fatal. Every noun should be concrete. *"5 books"* not *"resources."* *"3am"* not *"in your hardest moments."* *"30 pages"* not *"a substantial guide."*
 
 **Maximum warmth at the human moments.** The headline and bullets are functional. The subheadline and microcopy carry the warmth. The voice doesn't disappear in the compressed format - it gets concentrated.
 
@@ -287,7 +287,7 @@ Most lead magnet page traffic comes from mobile, particularly traffic from Meta 
 
 The lead magnet page does not stand alone. It receives traffic from upstream and hands subscribers to downstream. The integration points matter.
 
-**Inbound from ads:** The lead magnet page must match the ad's promise _exactly_. If the ad offered _"5 free Christian books on suffering,"_ the page headline must say _"5 free Christian books on suffering"_ - not _"a free Christian library"_ or _"resources for hard times."_ Mismatched promise/delivery cuts conversion 20-40%. The ad and the lead magnet page should feel like one continuous handoff.
+**Inbound from ads:** The lead magnet page must match the ad's promise *exactly*. If the ad offered *"5 free Christian books on suffering,"* the page headline must say *"5 free Christian books on suffering"* - not *"a free Christian library"* or *"resources for hard times."* Mismatched promise/delivery cuts conversion 20-40%. The ad and the lead magnet page should feel like one continuous handoff.
 
 **Inbound from organic sources:** Visitors arriving organically (from a podcast mention, a forwarded link, a search result) may have less context than ad traffic. The page handles this naturally because it's already minimalist - but the headline must work without the ad's preamble.
 
@@ -301,19 +301,19 @@ The lead magnet page does not stand alone. It receives traffic from upstream and
 
 The following is a complete, ready-to-deploy example of a Dean-style lead magnet page for the suffering bundle. Total prose: under 150 words. Every component present. Nothing extraneous.
 
-**\[Headline - Largest Text\]**
+**\[Headline - Largest Text]**
 
 **5 Free Christian Books On Why God Allows Suffering - Yours Instantly**
 
-**\[Subheadline\]**
+**\[Subheadline]**
 
 Real biblical answers for the questions you're actually asking at 3am.
 
-**\[Bullets\]**
+**\[Bullets]**
 
 📖 Why God lets you be betrayed before He promotes you (Joseph's hidden pattern)
 
-📖 What Jesus meant when He said _"in this world you will have trouble"_ - and why most Christians miss it
+📖 What Jesus meant when He said *"in this world you will have trouble"* - and why most Christians miss it
 
 📖 The single Scripture that reframes suffering forever once you really see it
 
@@ -321,17 +321,17 @@ Real biblical answers for the questions you're actually asking at 3am.
 
 📖 The difference between coping with pain and being shaped by it
 
-**\[Form\]**
+**\[Form]**
 
-\[Email Input Field\]
+\[Email Input Field]
 
-\[Button: Send Me The Free Books\]
+\[Button: Send Me The Free Books]
 
-_Instant download. No spam, ever. Unsubscribe anytime._
+*Instant download. No spam, ever. Unsubscribe anytime.*
 
-**\[Optional: Mini-Bio\]**
+**\[Optional: Mini-Bio]**
 
-_Written by \[Name\] - author of 200+ free Christian books at TeamSuccessNetwork.com._
+*Written by \[Name] - author of 200+ free Christian books at TeamSuccessNetwork.com.*
 
 That's the entire page. Roughly 140 words of prose, plus the form and microcopy. Nothing else.
 
@@ -349,7 +349,7 @@ The page includes navigation, footer links, social icons, and "about us" section
 
 **Failure Mode 2: The Vague Offer**
 
-The headline says _"Free Resource"_ or _"Get Our Guide"_ without specifying what it is. Visitors don't know what they're getting and either don't opt in or opt in with low engagement. Specificity is the highest-leverage variable on this page.
+The headline says *"Free Resource"* or *"Get Our Guide"* without specifying what it is. Visitors don't know what they're getting and either don't opt in or opt in with low engagement. Specificity is the highest-leverage variable on this page.
 
 **Failure Mode 3: The Multi-Field Form**
 
@@ -357,11 +357,11 @@ The form asks for first name, last name, phone number, and company in addition t
 
 **Failure Mode 4: The Hype Headline**
 
-_"This Will TRANSFORM Your Faith FOREVER!"_ signals advertisement and triggers skepticism. Restrained, specific headlines outperform hype-driven ones consistently.
+*"This Will TRANSFORM Your Faith FOREVER!"* signals advertisement and triggers skepticism. Restrained, specific headlines outperform hype-driven ones consistently.
 
 **Failure Mode 5: The Mismatched Promise**
 
-The ad promised _"5 free books"_ but the lead magnet page says _"a free Christian library"_. The visitor's brain registers the mismatch and conversion drops 20-40%. Match the ad's exact language.
+The ad promised *"5 free books"* but the lead magnet page says *"a free Christian library"*. The visitor's brain registers the mismatch and conversion drops 20-40%. Match the ad's exact language.
 
 **Failure Mode 6: The Buried Form**
 
@@ -369,7 +369,7 @@ The form is below the fold or requires scrolling on mobile. Visitors who don't s
 
 **Failure Mode 7: The Generic Button**
 
-Button text is _"Submit"_ or _"Sign Up"_. These convert at meaningfully lower rates than benefit-focused button text like _"Send Me The Free Books"_.
+Button text is *"Submit"* or *"Sign Up"*. These convert at meaningfully lower rates than benefit-focused button text like *"Send Me The Free Books"*.
 
 **Failure Mode 8: The Slow Page**
 
@@ -387,21 +387,21 @@ The page has design elements (illustrations, animations, decorative imagery) tha
 
 Before delivering any lead magnet page to the user, scan it against this checklist:
 
-- Is the offer named specifically (not vaguely)?
-- Does the headline match the language of the driving ad?
-- Is the subheadline emotionally resonant, not procedural?
-- Are there 3-5 bullets, each describing an outcome?
-- Does the form ask for email only?
-- Is the button text benefit-focused, not generic?
-- Is there trust microcopy beneath the button?
-- Is the form visible above the fold on mobile?
-- Are there no navigation menus, social icons, or footer links?
-- Are there no testimonials, FAQs, or competing offers?
-- Is the total prose under 200 words?
-- Does the voice match the founder's calibration from intake?
-- Does the page hand off cleanly to a thank-you page?
-- Is the conversion pixel in place for the ad platform?
-- Will the page load in under 2 seconds on mobile?
+* Is the offer named specifically (not vaguely)?
+* Does the headline match the language of the driving ad?
+* Is the subheadline emotionally resonant, not procedural?
+* Are there 3-5 bullets, each describing an outcome?
+* Does the form ask for email only?
+* Is the button text benefit-focused, not generic?
+* Is there trust microcopy beneath the button?
+* Is the form visible above the fold on mobile?
+* Are there no navigation menus, social icons, or footer links?
+* Are there no testimonials, FAQs, or competing offers?
+* Is the total prose under 200 words?
+* Does the voice match the founder's calibration from intake?
+* Does the page hand off cleanly to a thank-you page?
+* Is the conversion pixel in place for the ad platform?
+* Will the page load in under 2 seconds on mobile?
 
 If any answer is no, identify whether the issue is structural (a component is missing or extraneous element is present) or textural (voice or specificity drift). Both must be corrected before delivery.
 
@@ -411,7 +411,7 @@ When the user asks for a lead magnet page to be written:
 
 **Step 1:** Confirm intake details - what's the lead magnet (specifically), what's the buyer's pain, what's the founder's voice, what does the driving ad say. Push for missing details before writing.
 
-**Step 2:** Confirm the lead magnet itself is named specifically. _"A free guide"_ is not enough. _"5 free Christian books on suffering"_ or _"The 47-page Christian Sales Starter Guide"_ is enough.
+**Step 2:** Confirm the lead magnet itself is named specifically. *"A free guide"* is not enough. *"5 free Christian books on suffering"* or *"The 47-page Christian Sales Starter Guide"* is enough.
 
 **Step 3:** Build the page in full - all five components, no extraneous elements. Show the structure visibly so the user can see what goes where.
 
@@ -432,3 +432,4 @@ If the page does that, it will convert at 35-55%. If extraneous elements are add
 When this file is loaded, the AI is operating as the **handshake builder** of the funnel - responsible for the cleanest, smallest, most disciplined page in the entire system. The lead magnet page does not impress, doesn't establish brand, doesn't warm up. It captures the email and gets out of the way.
 
 Every other asset in the funnel can do its job because this page does its job. Build accordingly.
+

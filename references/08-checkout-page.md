@@ -1,4 +1,4 @@
-**checkout-page.md**
+**dean-funnel-builder/references/checkout-page.md**
 
 **PURPOSE OF THIS FILE**
 
@@ -14,11 +14,11 @@ If sales-page.md is the closing room where the decision is made, this file is th
 
 **THE CORE THESIS OF DEAN-STYLE CHECKOUT PAGES**
 
-Most checkout pages are designed by developers and payment processors. They're built around the technical requirements of the payment system: collect billing address, validate card, process transaction, redirect to confirmation. The result is a page that _functions_ but doesn't _convert_ - because functional design and conversion design are different disciplines.
+Most checkout pages are designed by developers and payment processors. They're built around the technical requirements of the payment system: collect billing address, validate card, process transaction, redirect to confirmation. The result is a page that *functions* but doesn't *convert* - because functional design and conversion design are different disciplines.
 
 Dean's checkout pages are designed around a single insight: **the buyer arrives on the checkout page in a state of maximum hesitation, even though they've already decided to buy.**
 
-This sounds contradictory. It isn't. The buyer's brain operates in two modes simultaneously at this moment. The decision-making part has committed: _yes, I want this._ The risk-evaluation part is freshly activated: _what am I actually about to do? Is this safe? Is this a scam? Will I be charged something I don't expect? What if the product doesn't deliver?_
+This sounds contradictory. It isn't. The buyer's brain operates in two modes simultaneously at this moment. The decision-making part has committed: *yes, I want this.* The risk-evaluation part is freshly activated: *what am I actually about to do? Is this safe? Is this a scam? Will I be charged something I don't expect? What if the product doesn't deliver?*
 
 The sales page convinced the decision-making part. The checkout page must reassure the risk-evaluation part. Every element on the page either reduces risk perception (good) or amplifies it (bad). There is no neutral element on a checkout page.
 
@@ -28,23 +28,23 @@ This produces a counterintuitive design principle: **the best checkout page is t
 
 **THE FOUR JOBS OF THE CHECKOUT PAGE**
 
-The page has four jobs. Unlike the sales page (which has 27 sequential sections doing 7 phases of work), the checkout page does its four jobs simultaneously, all visible on a single screen. The buyer should be able to take in the entire page at a glance and feel: _I know exactly what I'm buying, exactly what I'm paying, exactly what happens next, and this is safe._
+The page has four jobs. Unlike the sales page (which has 27 sequential sections doing 7 phases of work), the checkout page does its four jobs simultaneously, all visible on a single screen. The buyer should be able to take in the entire page at a glance and feel: *I know exactly what I'm buying, exactly what I'm paying, exactly what happens next, and this is safe.*
 
 **Job 1: Confirm What They're Buying**
 
-The buyer must see - clearly and immediately - exactly what they purchased. Not in marketing language. In plain confirmation language. _"You are purchasing: Purpose In Your Pain - The Full 10-Book Bundle."_
+The buyer must see - clearly and immediately - exactly what they purchased. Not in marketing language. In plain confirmation language. *"You are purchasing: Purpose In Your Pain - The Full 10-Book Bundle."*
 
 If the buyer has any uncertainty about what they're buying at the moment of payment, conversion drops sharply. The risk-evaluation brain interprets uncertainty as danger and aborts.
 
 **Job 2: Confirm The Price (And Only The Price)**
 
-The buyer must see exactly what they're being charged, with no surprises. _"Total: \$97."_ One number. No sneaky add-ons, no shipping fees that appear at the last second, no "processing fees," no recurring charges they didn't sign up for.
+The buyer must see exactly what they're being charged, with no surprises. *"Total: $97."* One number. No sneaky add-ons, no shipping fees that appear at the last second, no "processing fees," no recurring charges they didn't sign up for.
 
 If the price on the checkout page differs by even a few cents from the price on the sales page, conversion drops 15-25%. If there's any pricing element the buyer didn't expect, conversion can drop 30-50%.
 
 **Job 3: Capture Payment With Minimum Friction**
 
-The buyer must enter their payment information through the smallest possible form, on the most trusted-looking interface. Every additional field is a friction point. Every visual cue that signals _"this might not be safe"_ triggers abandonment.
+The buyer must enter their payment information through the smallest possible form, on the most trusted-looking interface. Every additional field is a friction point. Every visual cue that signals *"this might not be safe"* triggers abandonment.
 
 **Job 4: Reassure At The Moment Of Decision**
 
@@ -66,24 +66,24 @@ The checkout page has a stable structure of eight components. Unlike the sales p
 
 **Strong example:**
 
-_"Your Order:_
+*"Your Order:*
 
-_Purpose In Your Pain - The Full 10-Book Bundle_ _All 10 books delivered as PDF and Word documents_ _Instant download after purchase_
+*Purpose In Your Pain - The Full 10-Book Bundle* *All 10 books delivered as PDF and Word documents* *Instant download after purchase*
 
-_Total: \$97 (one-time payment)"_
+*Total: $97 (one-time payment)"*
 
 **Weak example:**
 
-_"You're About To Get The Most Powerful Christian Resource On Suffering Ever Created!"_
+*"You're About To Get The Most Powerful Christian Resource On Suffering Ever Created!"*
 
 The weak version uses marketing language at the moment the buyer needs receipt language. The risk-evaluation brain reads marketing language at this stage as "trying to sell me again" and triggers hesitation.
 
 **Critical rules:**
 
-- The product name on this page must match the sales page exactly
-- The price must match exactly (no surprise additions)
-- The format/delivery must be specified clearly
-- "One-time payment" should be explicit if there's any possible ambiguity
+* The product name on this page must match the sales page exactly
+* The price must match exactly (no surprise additions)
+* The format/delivery must be specified clearly
+* "One-time payment" should be explicit if there's any possible ambiguity
 
 **Component 2: The Payment Form**
 
@@ -95,23 +95,23 @@ The weak version uses marketing language at the moment the buyer needs receipt l
 
 **Required fields (typical):**
 
-- Email (often pre-filled from the lead magnet opt-in)
-- Card number, expiration, CVV
-- Billing zip code (required by most processors for fraud detection)
+* Email (often pre-filled from the lead magnet opt-in)
+* Card number, expiration, CVV
+* Billing zip code (required by most processors for fraud detection)
 
 **Sometimes required, depending on processor and product:**
 
-- Full billing address (often only needed for physical products or certain tax jurisdictions)
-- Country (usually auto-detected)
-- First and last name on card
+* Full billing address (often only needed for physical products or certain tax jurisdictions)
+* Country (usually auto-detected)
+* First and last name on card
 
 **Almost never appropriate:**
 
-- Phone number (kills conversion 5-15%, almost never necessary for digital products)
-- Date of birth
-- Company name
-- "How did you hear about us?" surveys
-- Optional newsletter checkboxes (other than the unavoidable transactional ones)
+* Phone number (kills conversion 5-15%, almost never necessary for digital products)
+* Date of birth
+* Company name
+* "How did you hear about us?" surveys
+* Optional newsletter checkboxes (other than the unavoidable transactional ones)
 
 **Critical principle:** Every additional field is a friction point. The discipline is to cut every field that isn't strictly required by the payment processor or genuinely necessary to deliver the product. **Most digital products need 5-7 fields total, not 12-15.**
 
@@ -121,17 +121,17 @@ The weak version uses marketing language at the moment the buyer needs receipt l
 
 **Format:** Small visual badges placed near the payment form. Typically includes:
 
-- Stripe / PayPal / payment processor logo
-- SSL secure / lock icon
-- Money-back guarantee badge
+* Stripe / PayPal / payment processor logo
+* SSL secure / lock icon
+* Money-back guarantee badge
 
 **Voice rules:** Visual, not textual. The badges signal trust without saying "trust me" - which would itself trigger hesitation.
 
 **Critical rules:**
 
-- Use real badges from real services (Stripe's actual logo, not a generic "secure" graphic)
-- Place them near the form, not buried in the footer
-- Don't use fake or self-made "100% Secure" badges - they signal amateur design and decrease trust
+* Use real badges from real services (Stripe's actual logo, not a generic "secure" graphic)
+* Place them near the form, not buried in the footer
+* Don't use fake or self-made "100% Secure" badges - they signal amateur design and decrease trust
 
 **Component 4: The Reminder Of Value (Brief)**
 
@@ -143,17 +143,17 @@ The weak version uses marketing language at the moment the buyer needs receipt l
 
 **Strong example:**
 
-_"What's included:_
+*"What's included:*
 
-- _All 10 books (main book + 9 deep-dive companions)_
-- _Both PDF and Word document formats_
-- _Instant download access_
-- _30-day money-back guarantee_
-- _Lifetime access - yours forever"_
+* *All 10 books (main book + 9 deep-dive companions)*
+* *Both PDF and Word document formats*
+* *Instant download access*
+* *30-day money-back guarantee*
+* *Lifetime access - yours forever"*
 
 **Weak example:**
 
-_"DON'T MISS OUT! This is your CHANCE to TRANSFORM your faith! Read what others are saying..."_
+*"DON'T MISS OUT! This is your CHANCE to TRANSFORM your faith! Read what others are saying..."*
 
 The weak version re-sells at the moment the buyer needs only confirmation. The risk-evaluation brain reads re-selling as desperation and decreases trust.
 
@@ -167,21 +167,21 @@ The weak version re-sells at the moment the buyer needs only confirmation. The r
 
 **Strong example:**
 
-_"☐ YES - Add the audio versions of all 10 books for just \$19 more (normally \$97)"_
+*"☐ YES - Add the audio versions of all 10 books for just $19 more (normally $97)"*
 
-_"Listen to the books while driving, exercising, or in moments when reading isn't possible. All 10 books professionally narrated. One-time payment, instant access."_
+*"Listen to the books while driving, exercising, or in moments when reading isn't possible. All 10 books professionally narrated. One-time payment, instant access."*
 
 **Weak example:**
 
-_"Add Premium Bonus Pack for \$97!"_ (vague, expensive, undefined)
+*"Add Premium Bonus Pack for $97!"* (vague, expensive, undefined)
 
 **Critical rules for order bumps:**
 
-- The bump must be clearly related to the main product (not a random upsell)
-- The bump price should be 15-30% of the main product price (not equal to or exceeding it)
-- The default should be unchecked (no opt-out friction; opting in is an active choice)
-- The bump description should be brief - 2-3 lines maximum
-- Adding the bump should not require additional payment information or steps
+* The bump must be clearly related to the main product (not a random upsell)
+* The bump price should be 15-30% of the main product price (not equal to or exceeding it)
+* The default should be unchecked (no opt-out friction; opting in is an active choice)
+* The bump description should be brief - 2-3 lines maximum
+* Adding the bump should not require additional payment information or steps
 
 When designed well, order bumps are taken by 30-50% of buyers, increasing average order value substantially with almost no friction added.
 
@@ -195,22 +195,22 @@ When designed well, order bumps are taken by 30-50% of buyers, increasing averag
 
 **Strong button text:**
 
-- _"Complete My Order - Send Me The Books Now"_
-- _"Yes - Process My Order"_
-- _"Place Order - \$97"_
+* *"Complete My Order - Send Me The Books Now"*
+* *"Yes - Process My Order"*
+* *"Place Order - $97"*
 
 **Weak button text:**
 
-- _"Submit"_ (generic, transactional)
-- _"Pay Now"_ (cold)
-- _"Confirm"_ (procedural)
+* *"Submit"* (generic, transactional)
+* *"Pay Now"* (cold)
+* *"Confirm"* (procedural)
 
 **Critical button rules:**
 
-- The button must include the price (\$97) so the buyer sees what they're committing to
-- The button must use action language ("Complete," "Place," "Send Me") rather than passive language ("Submit," "Confirm")
-- The button must be visually dominant - high contrast, large, centered or right-aligned within the form
-- On mobile, the button must be thumb-sized (minimum 44x44 pixels)
+* The button must include the price ($97) so the buyer sees what they're committing to
+* The button must use action language ("Complete," "Place," "Send Me") rather than passive language ("Submit," "Confirm")
+* The button must be visually dominant - high contrast, large, centered or right-aligned within the form
+* On mobile, the button must be thumb-sized (minimum 44x44 pixels)
 
 **Component 7: The Trust Microcopy (Beneath The Button)**
 
@@ -222,22 +222,22 @@ When designed well, order bumps are taken by 30-50% of buyers, increasing averag
 
 **Strong example:**
 
-_"Your card will be charged \$97. One-time payment - no recurring charges._
+*"Your card will be charged $97. One-time payment - no recurring charges.*
 
-_Books delivered to your inbox within 2 minutes of purchase._
+*Books delivered to your inbox within 2 minutes of purchase.*
 
-_30-day full refund - keep the books either way. Email me anytime if anything goes wrong."_
+*30-day full refund - keep the books either way. Email me anytime if anything goes wrong."*
 
 **Why each line matters:**
 
-- Line 1 kills the "will I be charged again?" objection
-- Line 2 kills the "when will I get this?" objection
-- Line 3 kills the "what if it doesn't work for me?" objection
-- The "email me anytime" closes with a human signal, reducing perceived corporate distance
+* Line 1 kills the "will I be charged again?" objection
+* Line 2 kills the "when will I get this?" objection
+* Line 3 kills the "what if it doesn't work for me?" objection
+* The "email me anytime" closes with a human signal, reducing perceived corporate distance
 
 **Weak example:**
 
-_"By clicking the button you agree to our Terms of Service and Privacy Policy."_ (legal, not trust-building - required, but should be in addition to, not instead of, the trust microcopy)
+*"By clicking the button you agree to our Terms of Service and Privacy Policy."* (legal, not trust-building - required, but should be in addition to, not instead of, the trust microcopy)
 
 **Component 8: The Final Trust Signals (Footer-Level)**
 
@@ -245,32 +245,32 @@ _"By clicking the button you agree to our Terms of Service and Privacy Policy."_
 
 **Format:** Small text at the bottom of the page. Usually includes:
 
-- Refund policy link
-- Terms of service link
-- Privacy policy link
-- Support email or contact information
-- Company information (if legally required)
+* Refund policy link
+* Terms of service link
+* Privacy policy link
+* Support email or contact information
+* Company information (if legally required)
 
 **Critical rules:**
 
-- These links must open in new tabs so they don't pull the buyer away from the conversion event
-- The text should be small and muted - present but not visually competing
-- No social media icons, no "explore more products," no recent blog posts
-- Just the legal compliance and contact information
+* These links must open in new tabs so they don't pull the buyer away from the conversion event
+* The text should be small and muted - present but not visually competing
+* No social media icons, no "explore more products," no recent blog posts
+* Just the legal compliance and contact information
 
 **VOICE CALIBRATION FOR CHECKOUT PAGES**
 
 The voice rules from voice-guide.md apply, with significant adaptations for the unique context of the checkout page:
 
-**The voice is mostly absent.** Unlike the sales page, lead magnet page, or email sequence - where voice is the primary conversion engine - the checkout page does most of its work through _what is removed_, not what is said. The sentences that remain are short, factual, reassuring. The personality of the founder appears only in small touches (the trust microcopy, the support email signature) rather than throughout.
+**The voice is mostly absent.** Unlike the sales page, lead magnet page, or email sequence - where voice is the primary conversion engine - the checkout page does most of its work through *what is removed*, not what is said. The sentences that remain are short, factual, reassuring. The personality of the founder appears only in small touches (the trust microcopy, the support email signature) rather than throughout.
 
-**Warmth shows up in small moments.** The microcopy beneath the button (_"Email me anytime if anything goes wrong"_) is a voice moment in miniature - a human signal in an otherwise functional environment. These small moments are disproportionately important. They tell the buyer that there's still a real person on the other side of the transaction, even at the moment of payment.
+**Warmth shows up in small moments.** The microcopy beneath the button (*"Email me anytime if anything goes wrong"*) is a voice moment in miniature - a human signal in an otherwise functional environment. These small moments are disproportionately important. They tell the buyer that there's still a real person on the other side of the transaction, even at the moment of payment.
 
 **Match the sales page voice in the order summary.** The product name, the description, the bundle naming - these must match the sales page exactly. A jarring shift in language between sales page and checkout page (where the sales page calls it "The Purpose In Your Pain Library" but the checkout calls it "10-Book Bundle Package") signals "this might not be the same offer" and triggers hesitation.
 
 **Avoid hype completely.** Hype on the checkout page is the single fastest way to trigger abandonment. The buyer's brain is already in risk-evaluation mode. Hype reads as desperation, which reads as fraud risk. Restraint at this stage is not optional.
 
-**Read the page from the perspective of someone slightly nervous.** The voice test for the checkout page is different from other pages. Don't ask _"would this stop the scroll?"_ (that was the ad's job). Don't ask _"would this convince me to buy?"_ (the sales page already did that). Ask: _"would this reassure me if I was nervous about whether this was real and safe?"_ If yes, the voice is right.
+**Read the page from the perspective of someone slightly nervous.** The voice test for the checkout page is different from other pages. Don't ask *"would this stop the scroll?"* (that was the ad's job). Don't ask *"would this convince me to buy?"* (the sales page already did that). Ask: *"would this reassure me if I was nervous about whether this was real and safe?"* If yes, the voice is right.
 
 **MOBILE-FIRST DESIGN**
 
@@ -300,7 +300,7 @@ The checkout page does not stand alone. It receives buyers from upstream and rou
 
 **Inbound from sales page:** The buyer was just on the long-form sales page. The voice, brand, and offer language must continue seamlessly. If the sales page felt handcrafted and personal but the checkout page feels generic and templated, the trust drop in seconds is severe. Conversion rates between sales pages with on-brand checkout pages and sales pages with generic processor-default checkout pages can differ by 20-40%.
 
-**Inbound from thank-you tripwire page:** The buyer was just on the warm, fast tripwire page. Same principle - voice continuity matters. Some funnels use a different (simpler) checkout page for the tripwire (\$27) than for the main offer (\$97), which is fine as long as both feel on-brand.
+**Inbound from thank-you tripwire page:** The buyer was just on the warm, fast tripwire page. Same principle - voice continuity matters. Some funnels use a different (simpler) checkout page for the tripwire ($27) than for the main offer ($97), which is fine as long as both feel on-brand.
 
 **Outbound to upsell page:** Immediately after the buyer completes payment, they should be routed to the one-time upsell offer page (see upsell-downsell.md). The transition must be instant - no loading screen, no "processing your order" delay longer than 1-2 seconds. Slow transitions break the upsell conversion rhythm.
 
@@ -316,11 +316,11 @@ The checkout page does not stand alone. It receives buyers from upstream and rou
 
 The following is a complete, ready-to-deploy example of a Dean-style checkout page for the Purpose In Your Pain bundle. Every component present, voice consistent, no extraneous elements.
 
-**\[Page Header - Minimal\]**
+**\[Page Header - Minimal]**
 
-_Logo or simple wordmark. No navigation menu._
+*Logo or simple wordmark. No navigation menu.*
 
-**\[Order Summary - Upper Left or Right\]**
+**\[Order Summary - Upper Left or Right]**
 
 **Your Order**
 
@@ -328,51 +328,51 @@ _Logo or simple wordmark. No navigation menu._
 
 All 10 books delivered as PDF and Word documents. Instant download access after purchase. Lifetime access - yours forever.
 
-**Total: \$97 (one-time payment)**
+**Total: $97 (one-time payment)**
 
-**\[What's Included Recap - Beneath Order Summary\]**
+**\[What's Included Recap - Beneath Order Summary]**
 
 **What's included:**
 
-- All 10 books (main book + 9 deep-dive companions)
-- Both PDF and Word document formats
-- Instant download access
-- 30-day money-back guarantee
-- Lifetime access - yours forever
+* All 10 books (main book + 9 deep-dive companions)
+* Both PDF and Word document formats
+* Instant download access
+* 30-day money-back guarantee
+* Lifetime access - yours forever
 
-**\[Order Bump - Above Payment Form\]**
+**\[Order Bump - Above Payment Form]**
 
-☐ **YES - Add the audio versions of all 10 books for just \$19 more**
+☐ **YES - Add the audio versions of all 10 books for just $19 more**
 
-Listen to the books while driving, exercising, or in moments when reading isn't possible. All 10 books professionally narrated. One-time payment, instant access. (Normally \$97 - only available with this order.)
+Listen to the books while driving, exercising, or in moments when reading isn't possible. All 10 books professionally narrated. One-time payment, instant access. (Normally $97 - only available with this order.)
 
-**\[Payment Form\]**
+**\[Payment Form]**
 
-**Email** _(for delivery)_ \[email field\]
+**Email** *(for delivery)* \[email field]
 
-**Card Information** \[card number field - with auto-detection of Visa/MC/Amex\] \[expiration\] \[CVV\]
+**Card Information** \[card number field - with auto-detection of Visa/MC/Amex] \[expiration] \[CVV]
 
-**Billing Zip Code** \[zip field\]
+**Billing Zip Code** \[zip field]
 
-**\[Trust Badges - Near Form\]**
+**\[Trust Badges - Near Form]**
 
 🔒 SSL Secure | Stripe Verified | 30-Day Money-Back Guarantee
 
-**\[Submit Button\]**
+**\[Submit Button]**
 
-**\[Complete My Order - Send Me The Books Now (\$97)\]**
+**\[Complete My Order - Send Me The Books Now ($97)]**
 
-**\[Trust Microcopy - Beneath Button\]**
+**\[Trust Microcopy - Beneath Button]**
 
-_Your card will be charged \$97. One-time payment - no recurring charges._
+*Your card will be charged $97. One-time payment - no recurring charges.*
 
-_Books delivered to your inbox within 2 minutes of purchase._
+*Books delivered to your inbox within 2 minutes of purchase.*
 
-_30-day full refund - keep the books either way. Email me anytime if anything goes wrong: \[support email\]._
+*30-day full refund - keep the books either way. Email me anytime if anything goes wrong: \[support email].*
 
-**\[Footer - Minimal\]**
+**\[Footer - Minimal]**
 
-_Refund Policy | Terms of Service | Privacy Policy | Support_
+*Refund Policy | Terms of Service | Privacy Policy | Support*
 
 That's the entire page. Approximately 200 words of copy plus the form. Every component present. Nothing extraneous.
 
@@ -442,26 +442,26 @@ The completion event doesn't fire a tracking pixel for the ad platform. Without 
 
 Before delivering any checkout page to the user, scan it against this checklist:
 
-- Does the order summary match the sales page exactly (product name, price, format)?
-- Is the price visible and clearly stated as one-time vs. recurring?
-- Are there only the strictly necessary form fields?
-- Are real trust badges (Stripe, SSL, refund) visible near the form?
-- Is there a brief "what's included" recap?
-- If an order bump is included, is it genuinely valuable and clearly priced?
-- Is the order bump unchecked by default?
-- Is the submit button visually dominant with action-oriented text?
-- Does the button text include the price?
-- Is there trust microcopy beneath the button addressing the unconscious objections?
-- Is the support email visible somewhere on the page?
-- Are footer links opening in new tabs?
-- Are there no extraneous elements (chat widgets, popups, navigation, social icons)?
-- Does the page render correctly on mobile?
-- Does mobile auto-fill work for standard fields?
-- Is Apple Pay / Google Pay enabled if available?
-- Will the page load in under 2 seconds?
-- Is the conversion pixel in place for the ad platform?
-- Does the cart abandonment tag fire on page entry (for buyers who don't complete)?
-- Is the post-purchase redirect routed to the upsell page (or confirmation if no upsell)?
+* Does the order summary match the sales page exactly (product name, price, format)?
+* Is the price visible and clearly stated as one-time vs. recurring?
+* Are there only the strictly necessary form fields?
+* Are real trust badges (Stripe, SSL, refund) visible near the form?
+* Is there a brief "what's included" recap?
+* If an order bump is included, is it genuinely valuable and clearly priced?
+* Is the order bump unchecked by default?
+* Is the submit button visually dominant with action-oriented text?
+* Does the button text include the price?
+* Is there trust microcopy beneath the button addressing the unconscious objections?
+* Is the support email visible somewhere on the page?
+* Are footer links opening in new tabs?
+* Are there no extraneous elements (chat widgets, popups, navigation, social icons)?
+* Does the page render correctly on mobile?
+* Does mobile auto-fill work for standard fields?
+* Is Apple Pay / Google Pay enabled if available?
+* Will the page load in under 2 seconds?
+* Is the conversion pixel in place for the ad platform?
+* Does the cart abandonment tag fire on page entry (for buyers who don't complete)?
+* Is the post-purchase redirect routed to the upsell page (or confirmation if no upsell)?
 
 If any answer is no, identify whether the issue is structural (a component is missing or extraneous element is present), textural (voice or copy issue), or technical (form behavior, page load, integration). All three categories must be corrected before launch.
 
@@ -500,3 +500,4 @@ Every other asset upstream - the ad, the lead magnet page, the email sequence, t
 When that happens, the funnel is working. When extraneous elements creep in or trust signals are missing, the funnel leaks revenue at the most expensive possible point.
 
 Build accordingly.
+

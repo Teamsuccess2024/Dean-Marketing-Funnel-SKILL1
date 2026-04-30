@@ -1,4 +1,4 @@
-**cart-abandonment.md**
+**dean-funnel-builder/references/cart-abandonment.md**
 
 **PURPOSE OF THIS FILE**
 
@@ -10,7 +10,7 @@ Then they left.
 
 In a typical funnel, **30-50% of buyers who reach the checkout page do not complete their purchase.** This is not a minor leak. It is the single largest revenue loss point in the funnel, and it happens at the most expensive moment - after all the marketing investment has been made.
 
-A well-built cart abandonment sequence recovers 15-30% of those abandoners. On a funnel doing \$50,000 per month in checkout-completed sales, this translates to \$7,500-\$15,000 per month in additional revenue from buyers who would otherwise have been lost entirely. **The sequence is one of the highest ROI assets in the entire funnel** - recovered revenue arrives at near-zero marginal cost, since the ad spend that produced the buyer was already incurred.
+A well-built cart abandonment sequence recovers 15-30% of those abandoners. On a funnel doing $50,000 per month in checkout-completed sales, this translates to $7,500-$15,000 per month in additional revenue from buyers who would otherwise have been lost entirely. **The sequence is one of the highest ROI assets in the entire funnel** - recovered revenue arrives at near-zero marginal cost, since the ad spend that produced the buyer was already incurred.
 
 This file teaches how to build the sequence so it consistently recovers in the 15-30% range, without damaging the long-term relationship with the buyers who genuinely don't want to purchase. The sequence must operate at the precise edge where helpful follow-up ends and harassment begins - and Dean-style sequences hold that edge through honesty, brevity, and respect for the buyer's autonomy.
 
@@ -18,7 +18,7 @@ If checkout-page.md is the moment of reach, this file is **the gentle hand on th
 
 **THE CORE THESIS OF DEAN-STYLE CART ABANDONMENT**
 
-Most cart abandonment sequences are built on a flawed assumption: that the buyer abandoned because they changed their mind, and therefore the recovery sequence's job is to _re-convince_ them to buy.
+Most cart abandonment sequences are built on a flawed assumption: that the buyer abandoned because they changed their mind, and therefore the recovery sequence's job is to *re-convince* them to buy.
 
 This assumption produces sequences that hammer the buyer with discount codes, urgency timers, social proof barrages, and increasingly desperate "last chance!" emails. The result: small short-term recovery gains, large long-term trust damage, and a list trained to expect a discount on every purchase if they just abandon and wait.
 
@@ -26,18 +26,18 @@ Dean's framing is different: **most cart abandonment is friction, not rejection.
 
 Buyers abandon for dozens of reasons that have nothing to do with changing their mind:
 
-- The card got declined and they didn't have another one handy
-- The page glitched on mobile and they couldn't complete
-- A child interrupted them mid-checkout
-- They wanted to ask their spouse first
-- They got distracted by a notification and forgot to come back
-- They wanted to read more reviews before committing
-- They had a sudden risk concern they couldn't articulate
-- They had a small technical question they didn't know how to ask
+* The card got declined and they didn't have another one handy
+* The page glitched on mobile and they couldn't complete
+* A child interrupted them mid-checkout
+* They wanted to ask their spouse first
+* They got distracted by a notification and forgot to come back
+* They wanted to read more reviews before committing
+* They had a sudden risk concern they couldn't articulate
+* They had a small technical question they didn't know how to ask
 
 In a substantial portion of cases - often 40-60% of abandoners - the buyer **still wants to buy.** They just need the friction removed, the question answered, the technical issue resolved, or a gentle reminder that they meant to come back.
 
-This insight produces a fundamentally different sequence design. Instead of _"You're missing out! Come back and buy!"_, the Dean sequence asks: _"Did something go wrong? I'd like to help if I can."_ That tonal shift transforms recovery rates because it accurately addresses the real reason most abandonment happens.
+This insight produces a fundamentally different sequence design. Instead of *"You're missing out! Come back and buy!"*, the Dean sequence asks: *"Did something go wrong? I'd like to help if I can."* That tonal shift transforms recovery rates because it accurately addresses the real reason most abandonment happens.
 
 The minority of abandoners who genuinely changed their mind - and who legitimately don't want to be hassled - get released gracefully through clear unsubscribe paths and a sequence that ends after at most three emails. The majority who simply needed friction removed often complete their purchase on the back of a brief, helpful follow-up.
 
@@ -49,7 +49,7 @@ Every decision in the sequence design flows from these five principles:
 
 **Principle 1: Lead With Concern, Not Pitch**
 
-The first email in the sequence should sound like a concerned friend, not a pursuing seller. _"Did something go wrong with your order?"_ outperforms _"You're missing out - complete your purchase now!"_ by a wide margin in real-world testing, because it accurately mirrors the abandoner's likely state and offers actual help.
+The first email in the sequence should sound like a concerned friend, not a pursuing seller. *"Did something go wrong with your order?"* outperforms *"You're missing out - complete your purchase now!"* by a wide margin in real-world testing, because it accurately mirrors the abandoner's likely state and offers actual help.
 
 **Principle 2: Make Returning Frictionless**
 
@@ -97,17 +97,17 @@ The subject line is the most important single element in the entire abandonment 
 
 **Strong subject line options:**
 
-- _"Did something go wrong?"_
-- _"Quick question about your order"_
-- _"Your books are still waiting"_
-- _"I noticed you didn't finish - can I help?"_
+* *"Did something go wrong?"*
+* *"Quick question about your order"*
+* *"Your books are still waiting"*
+* *"I noticed you didn't finish - can I help?"*
 
 **Weak subject line options:**
 
-- _"YOU'RE MISSING OUT! Come back!"_ (hype, signals desperation)
-- _"Last chance to buy \[product\]!"_ (assumes rejection, applies pressure)
-- _"Don't forget your cart!"_ (transactional, depersonalized)
-- _"50% off if you complete now!"_ (trains discount expectation)
+* *"YOU'RE MISSING OUT! Come back!"* (hype, signals desperation)
+* *"Last chance to buy \[product]!"* (assumes rejection, applies pressure)
+* *"Don't forget your cart!"* (transactional, depersonalized)
+* *"50% off if you complete now!"* (trains discount expectation)
 
 The strong subject lines all share one property: they sound like a brief personal note from a real person, not a marketing campaign. They are short, lowercase or sentence case, and curious rather than pressuring.
 
@@ -117,41 +117,41 @@ The preview text reinforces the personal-note tone of the subject line.
 
 **Strong examples:**
 
-- _"If anything broke, I want to fix it..."_
-- _"The page glitches sometimes - let me know if it did..."_
-- _"Just checking in - your order didn't complete..."_
+* *"If anything broke, I want to fix it..."*
+* *"The page glitches sometimes - let me know if it did..."*
+* *"Just checking in - your order didn't complete..."*
 
 **Full Email Body Structure**
 
 **Opening (1-2 sentences):** A direct, warm address that establishes the reason for the email without preamble.
 
-_"Hey - I noticed you started to grab the bundle but didn't finish. Did something go wrong on your end?"_
+*"Hey - I noticed you started to grab the bundle but didn't finish. Did something go wrong on your end?"*
 
 **The friction-removal section (2-3 short paragraphs):** Acknowledge the common reasons abandonment happens, signal that the seller will help fix any issue, and remove the buyer's potential embarrassment about technical problems.
 
-_"Sometimes the checkout page glitches on mobile. Sometimes a card gets declined for a reason that doesn't make sense. Sometimes life just interrupts._
+*"Sometimes the checkout page glitches on mobile. Sometimes a card gets declined for a reason that doesn't make sense. Sometimes life just interrupts.*
 
-_If anything broke, hit reply and I'll fix it personally. I read every email that comes back to me, and I'd rather help you complete your order than let it sit unfinished."_
+*If anything broke, hit reply and I'll fix it personally. I read every email that comes back to me, and I'd rather help you complete your order than let it sit unfinished."*
 
 **The soft re-route (1-2 sentences):** Provide the link back to the checkout page, framed as accommodation rather than pressure.
 
-_"Or if you just got pulled away - which happens to all of us - here's the link to pick up exactly where you left off:_
+*"Or if you just got pulled away - which happens to all of us - here's the link to pick up exactly where you left off:*
 
-_\[Link directly to checkout, ideally with cart pre-populated\]"_
+*\[Link directly to checkout, ideally with cart pre-populated]"*
 
 **The graceful release (1-2 sentences):** Acknowledge that some readers genuinely changed their mind, and give them an easy out.
 
-_"And if you decided it wasn't for you, no hard feelings. Just hit reply with 'not for me' and I'll stop the reminder emails. The free books you opted in for are still yours either way."_
+*"And if you decided it wasn't for you, no hard feelings. Just hit reply with 'not for me' and I'll stop the reminder emails. The free books you opted in for are still yours either way."*
 
 **Sign-off:** First-name signature only. Match the warmth of the rest of the email.
 
-_"Either way, I'm here._
+*"Either way, I'm here.*
 
-_\[Founder Name\]"_
+*\[Founder Name]"*
 
 **The PS line:** The PS captures readers who skim. Use it for one final friction-removal moment.
 
-_"PS - If you ran into any kind of error or technical issue, please tell me what happened. I genuinely want to know if something is broken so I can fix it for the next person."_
+*"PS - If you ran into any kind of error or technical issue, please tell me what happened. I genuinely want to know if something is broken so I can fix it for the next person."*
 
 **Total Length**
 
@@ -159,11 +159,11 @@ Email 1 should be **150-250 words.** Longer emails read as marketing campaigns; 
 
 **What This Email Must Not Do**
 
-- Mention discounts or special offers (trains the abandonment-for-discount habit)
-- Apply urgency or scarcity ("only 2 hours left!")
-- List benefits of the product again (they already read the sales page)
-- Include long testimonials or proof stacks (those belong on the sales page)
-- Pressure the buyer to commit ("decide right now")
+* Mention discounts or special offers (trains the abandonment-for-discount habit)
+* Apply urgency or scarcity ("only 2 hours left!")
+* List benefits of the product again (they already read the sales page)
+* Include long testimonials or proof stacks (those belong on the sales page)
+* Pressure the buyer to commit ("decide right now")
 
 The email's job is to remove friction and offer help. Marketing voice destroys both jobs.
 
@@ -173,7 +173,7 @@ Sent 24 hours after abandonment. By this point, buyers who would have completed 
 
 **Strategic Purpose**
 
-Email 2 doesn't try to re-pitch the entire offer. It addresses _one specific hesitation_ through story or testimonial. The story does the work that direct argument can't - it reframes the buyer's hesitation by showing someone in a similar situation who hesitated, eventually purchased, and benefited.
+Email 2 doesn't try to re-pitch the entire offer. It addresses *one specific hesitation* through story or testimonial. The story does the work that direct argument can't - it reframes the buyer's hesitation by showing someone in a similar situation who hesitated, eventually purchased, and benefited.
 
 The story-based approach works because it routes around the buyer's analytical defenses. By the time someone has abandoned a checkout page, their analytical brain has constructed reasons not to buy. Direct counter-argument activates those defenses and entrenches the position. Story bypasses defenses and reaches the emotional brain, which is more open to reconsideration.
 
@@ -183,64 +183,64 @@ The subject line should hint at the story without spoiling it.
 
 **Strong subject line options:**
 
-- _"Mark almost didn't buy either"_
-- _"What Sarah told me three months later"_
-- _"This is why I almost didn't write the bundle"_
-- _"The hesitation I hear most often"_
+* *"Mark almost didn't buy either"*
+* *"What Sarah told me three months later"*
+* *"This is why I almost didn't write the bundle"*
+* *"The hesitation I hear most often"*
 
 **Weak subject line options:**
 
-- _"Last chance - limited time offer!"_ (manufactured urgency)
-- _"Are you still interested?"_ (negative, presumptive)
-- _"Don't miss out!"_ (hype)
+* *"Last chance - limited time offer!"* (manufactured urgency)
+* *"Are you still interested?"* (negative, presumptive)
+* *"Don't miss out!"* (hype)
 
 **Preview Text**
 
 The preview text continues the story tease.
 
-_"Three months ago she told me she almost didn't pull the trigger..."_
+*"Three months ago she told me she almost didn't pull the trigger..."*
 
 **Full Email Body Structure**
 
 **Opening (1-2 sentences):** Reference the previous email naturally, without re-explaining it.
 
-_"I sent you a quick note yesterday checking in on your order. I figured today I'd share something that might help."_
+*"I sent you a quick note yesterday checking in on your order. I figured today I'd share something that might help."*
 
 **The story setup (2-3 short paragraphs):** Introduce a real or composite character who hesitated for a reason similar to common buyer hesitations. The character should be specific enough to feel real - named, with specific circumstances, with specific doubts.
 
-_"A few months ago, a woman named Mark - pastor's wife, three kids, walking through her father's terminal diagnosis - sat on the bundle for three days before buying._
+*"A few months ago, a woman named Mark - pastor's wife, three kids, walking through her father's terminal diagnosis - sat on the bundle for three days before buying.*
 
-_She told me later: 'I kept thinking, I don't have time to read 10 books. I have time for one good one, maybe. But ten? With everything happening?'"_
+*She told me later: 'I kept thinking, I don't have time to read 10 books. I have time for one good one, maybe. But ten? With everything happening?'"*
 
 **The pivot (1-2 paragraphs):** Show what the character discovered that resolved their hesitation. Don't preach the lesson - let the story carry it.
 
-_"What changed her mind was the realization that she didn't have to read all ten. She read the main book in two evenings. The other nine sat on her Kindle for the next four months - and during that time, she pulled three of them off the shelf at exactly the moments she needed them._
+*"What changed her mind was the realization that she didn't have to read all ten. She read the main book in two evenings. The other nine sat on her Kindle for the next four months - and during that time, she pulled three of them off the shelf at exactly the moments she needed them.*
 
-_The Joseph book during a particularly hard week with her brother. The wilderness book the night before the funeral. The wounded-healer book six weeks later, when she started writing letters to other women in her church who were grieving."_
+*The Joseph book during a particularly hard week with her brother. The wilderness book the night before the funeral. The wounded-healer book six weeks later, when she started writing letters to other women in her church who were grieving."*
 
 **The honest application (1-2 paragraphs):** Connect the story back to the reader's likely hesitation without being heavy-handed.
 
-_"That's how the bundle is built. One main book that delivers the core revelation. Nine companions that wait quietly until the specific season hits - and then meet you exactly where you are._
+*"That's how the bundle is built. One main book that delivers the core revelation. Nine companions that wait quietly until the specific season hits - and then meet you exactly where you are.*
 
-_If 'I don't have time for 10 books' is what's been holding you back, I get it. But I want you to know - you don't need time for ten. You need the one main book, and the others are there for whenever life requires them."_
+*If 'I don't have time for 10 books' is what's been holding you back, I get it. But I want you to know - you don't need time for ten. You need the one main book, and the others are there for whenever life requires them."*
 
 **The soft CTA (1-2 sentences):** Provide the link without pressure, framed as continued accommodation.
 
-_"If that helps, here's the link back to your order. Same place you left off:_
+*"If that helps, here's the link back to your order. Same place you left off:*
 
-_\[Link to checkout\]"_
+*\[Link to checkout]"*
 
 **The release (1 sentence):** Acknowledge the right to decline.
 
-_"And if it's still not the right time, no hard feelings. The free books are still serving you either way."_
+*"And if it's still not the right time, no hard feelings. The free books are still serving you either way."*
 
-**Sign-off and PS:** _"More tomorrow - or no more, if you'd rather. Just say the word._
+**Sign-off and PS:** *"More tomorrow - or no more, if you'd rather. Just say the word.*
 
-_\[Founder Name\]_
+*\[Founder Name]*
 
-_PS - If you have a specific question about whether this is a good fit for your situation, hit reply and tell me what's holding you back. I'll give you my honest take, even if it's 'this isn't for you right now.'"_
+*PS - If you have a specific question about whether this is a good fit for your situation, hit reply and tell me what's holding you back. I'll give you my honest take, even if it's 'this isn't for you right now.'"*
 
-The PS in Email 2 is critical - it opens a two-way conversation. Buyers who reply with their specific hesitation often complete the purchase after the seller's honest response, even if the response is _"this isn't for you right now."_ Honesty earns trust; trust earns the eventual sale.
+The PS in Email 2 is critical - it opens a two-way conversation. Buyers who reply with their specific hesitation often complete the purchase after the seller's honest response, even if the response is *"this isn't for you right now."* Honesty earns trust; trust earns the eventual sale.
 
 **Total Length**
 
@@ -248,11 +248,11 @@ Email 2 should be **300-500 words.** Slightly longer than Email 1 because the st
 
 **What This Email Must Not Do**
 
-- Use a different person's story to manipulate emotion (must be real or clearly composite)
-- Stack multiple testimonials (one story works; multiple read as marketing)
-- Apply heavy pressure or urgency
-- Offer a discount (still trains the wrong habit)
-- Re-explain the entire offer
+* Use a different person's story to manipulate emotion (must be real or clearly composite)
+* Stack multiple testimonials (one story works; multiple read as marketing)
+* Apply heavy pressure or urgency
+* Offer a discount (still trains the wrong habit)
+* Re-explain the entire offer
 
 **EMAIL 3: THE RESPECTFUL CLOSE**
 
@@ -266,7 +266,7 @@ Email 3 has two simultaneous jobs that must be done in balance:
 
 **Job 2:** Release the buyer gracefully if they're not going to complete, without burning the long-term relationship.
 
-The balance is delicate. Lean too far toward Job 1 and the email reads as desperate or pressuring. Lean too far toward Job 2 and the email feels like the seller has given up. The sweet spot is a clear ask delivered with calm respect - _"this is the last email about this; here's the deal one more time; either way is okay."_
+The balance is delicate. Lean too far toward Job 1 and the email reads as desperate or pressuring. Lean too far toward Job 2 and the email feels like the seller has given up. The sweet spot is a clear ask delivered with calm respect - *"this is the last email about this; here's the deal one more time; either way is okay."*
 
 **Subject Line**
 
@@ -274,60 +274,60 @@ The subject line should signal closure, not desperation.
 
 **Strong subject line options:**
 
-- _"Closing this out"_
-- _"Last email about this"_
-- _"Wrapping up"_
-- _"Wanted to give you a heads up"_
+* *"Closing this out"*
+* *"Last email about this"*
+* *"Wrapping up"*
+* *"Wanted to give you a heads up"*
 
 **Weak subject line options:**
 
-- _"FINAL CHANCE!!!"_ (hype)
-- _"You're about to lose this forever!"_ (manipulation)
-- _"Don't miss out!!!"_ (panic)
+* *"FINAL CHANCE!!!"* (hype)
+* *"You're about to lose this forever!"* (manipulation)
+* *"Don't miss out!!!"* (panic)
 
 **Preview Text**
 
-_"Just want to make sure you have the choice..."_
+*"Just want to make sure you have the choice..."*
 
 **Full Email Body Structure**
 
 **Opening (1-2 sentences):** Frame the email as the final one. Honest, not desperate.
 
-_"This is the last email I'll send about your order. After tonight, I'll let it go either way."_
+*"This is the last email I'll send about your order. After tonight, I'll let it go either way."*
 
 **The honest close (2-3 paragraphs):** Briefly recap the choice. Reference any genuine deadline. Make the ask cleanly.
 
-_"You started the order yesterday and didn't finish. I sent a check-in. I sent a story. And now I just want to make sure you have the choice clearly in front of you, one more time, before this email sequence wraps up._
+*"You started the order yesterday and didn't finish. I sent a check-in. I sent a story. And now I just want to make sure you have the choice clearly in front of you, one more time, before this email sequence wraps up.*
 
-_The bundle is still waiting where you left it. Same price, same access, same guarantee. If you want it, here's the link:_
+*The bundle is still waiting where you left it. Same price, same access, same guarantee. If you want it, here's the link:*
 
-_\[Link to checkout\]"_
+*\[Link to checkout]"*
 
 **The deadline reference (only if real):** If a genuine bonus, deadline, or price change exists, reference it here. If not, do not invent one.
 
-_"There's a small bonus - the audio version of the main book - that I'm including for everyone who completes their order in the first 72 hours. Yours expires tonight at midnight. If you complete after that, you'll still get the full bundle, but the audio bonus comes off."_
+*"There's a small bonus - the audio version of the main book - that I'm including for everyone who completes their order in the first 72 hours. Yours expires tonight at midnight. If you complete after that, you'll still get the full bundle, but the audio bonus comes off."*
 
 **The release (2-3 paragraphs):** Gracefully release the buyer who isn't going to complete. This section is critical - it's what preserves the long-term relationship.
 
-_"And if tonight isn't right - for whatever reason, in whatever season - that's okay. Genuinely._
+*"And if tonight isn't right - for whatever reason, in whatever season - that's okay. Genuinely.*
 
-_The free books are still in your inbox. I'll keep writing to you about other things - different topics, different stories, different moments where I think I can help. The door stays open._
+*The free books are still in your inbox. I'll keep writing to you about other things - different topics, different stories, different moments where I think I can help. The door stays open.*
 
-_Some of the people who eventually became my closest readers first abandoned a cart years before they bought anything. Sometimes the timing isn't right yet, and that's not a problem to be solved - it's just timing."_
+*Some of the people who eventually became my closest readers first abandoned a cart years before they bought anything. Sometimes the timing isn't right yet, and that's not a problem to be solved - it's just timing."*
 
 **Final ask (1-2 sentences):** One last clear invitation, calmly delivered.
 
-_"If tonight is the night, here's the link one more time:_
+*"If tonight is the night, here's the link one more time:*
 
-_\[Link to checkout\]_
+*\[Link to checkout]*
 
-_If it's not, I'll see you in the next email - about something completely different."_
+*If it's not, I'll see you in the next email - about something completely different."*
 
-**Sign-off and PS:** _"Either way, grateful you're here._
+**Sign-off and PS:** *"Either way, grateful you're here.*
 
-_\[Founder Name\]_
+*\[Founder Name]*
 
-_PS - If you want to be removed from any future emails, just hit reply and say 'unsubscribe.' I'll handle it manually. No hard feelings, ever."_
+*PS - If you want to be removed from any future emails, just hit reply and say 'unsubscribe.' I'll handle it manually. No hard feelings, ever."*
 
 The PS in Email 3 is unusual but important - it offers a personal, friction-free unsubscribe path. Most buyers won't take it, but those who would have unsubscribed angrily often instead unsubscribe gracefully, which preserves the long-term reputation of the sender.
 
@@ -337,11 +337,11 @@ Email 3 should be **250-400 words.** Brief enough to read quickly, complete enou
 
 **What This Email Must Not Do**
 
-- Manufacture urgency that doesn't actually exist
-- Apply guilt or shame for not completing
-- Promise the offer will never be available again (unless that's genuinely true)
-- Threaten removal from the email list as punishment
-- Reference the buyer's "last chance" if there will be other chances later
+* Manufacture urgency that doesn't actually exist
+* Apply guilt or shame for not completing
+* Promise the offer will never be available again (unless that's genuinely true)
+* Threaten removal from the email list as punishment
+* Reference the buyer's "last chance" if there will be other chances later
 
 The email's job is to close the sequence, not to threaten the buyer. Honest closure earns trust; manufactured closure damages it.
 
@@ -357,9 +357,9 @@ The sequence triggers when a buyer reaches the checkout page (page view fired) w
 
 Sent 1 hour after the abandonment trigger. This timing is optimal because:
 
-- It's late enough that buyers who simply needed a few minutes have already either completed or moved on
-- It's early enough that the buyer's intent is still warm and the abandonment feels recent
-- It reads as genuine concern rather than aggressive pursuit
+* It's late enough that buyers who simply needed a few minutes have already either completed or moved on
+* It's early enough that the buyer's intent is still warm and the abandonment feels recent
+* It reads as genuine concern rather than aggressive pursuit
 
 **Email 2 Timing**
 
@@ -373,9 +373,9 @@ Sent 24 hours after Email 2 (so 48 hours after the original abandonment). This i
 
 The buyer should be tagged with "cart abandoned" status when the sequence triggers and untagged when either:
 
-- They complete the purchase (sequence stops, post-purchase sequence begins)
-- They reply to any email (manual handling - usually means a real question or request)
-- 48 hours pass without completion (sequence ends, buyer returns to standard nurture)
+* They complete the purchase (sequence stops, post-purchase sequence begins)
+* They reply to any email (manual handling - usually means a real question or request)
+* 48 hours pass without completion (sequence ends, buyer returns to standard nurture)
 
 The sequence should not retrigger if the same buyer abandons multiple times in close succession. Repeated abandonments from the same buyer typically indicate either genuine hesitation or a technical issue - not a need for more emails. After two abandonments without completion, manual outreach (founder personally emailing the buyer) often outperforms automated sequence repetition.
 
@@ -389,7 +389,7 @@ Cart abandonment recovery is most effective when email is paired with retargetin
 
 **Retargeting ads handle visual presence** in the buyer's daily attention stream. Even when the buyer isn't checking their email, they see ads on Facebook, Instagram, and around the web - keeping the offer present until either completion or genuine release.
 
-The combination produces meaningfully higher recovery than either approach alone. The email creates direct conversation; the ads create persistent visual presence; together they produce a sense that the offer is _still available_ without becoming intrusive.
+The combination produces meaningfully higher recovery than either approach alone. The email creates direct conversation; the ads create persistent visual presence; together they produce a sense that the offer is *still available* without becoming intrusive.
 
 **Retargeting Ad Strategy For Cart Abandoners**
 
@@ -397,7 +397,7 @@ The retargeting ad approach is detailed in retargeting.md, but the abandonment-s
 
 **The audience is small and high-intent.** Cart abandoners are the most valuable retargeting audience in any funnel - they've already demonstrated intent to buy. Spend per impression should be higher than for cold or general retargeting audiences.
 
-**The creative should match the email tone.** _"Did something go wrong?"_ style ads outperform aggressive _"Last chance!"_ ads, for the same reasons the emails do.
+**The creative should match the email tone.** *"Did something go wrong?"* style ads outperform aggressive *"Last chance!"* ads, for the same reasons the emails do.
 
 **The duration should be limited.** Retargeting cart abandoners for 14+ days produces diminishing returns and accumulates "ad fatigue" complaints. 7 days is optimal for most funnels.
 
@@ -411,9 +411,9 @@ The voice rules from voice-guide.md apply, with these specific adaptations:
 
 **Short paragraphs, mobile-first.** Most abandonment emails are read on phones, often in spare moments between other tasks. Long paragraphs don't get read; short ones do. Two to three sentences per paragraph maximum, with white space between.
 
-**No marketing voice in the subject line.** The subject line is the most important single element in the entire sequence. Hype-style subject lines (_"YOU'RE MISSING OUT!"_) drop open rates by 40-60% versus conversational ones (_"Did something go wrong?"_). The subject line must sound like a personal note, not a marketing campaign.
+**No marketing voice in the subject line.** The subject line is the most important single element in the entire sequence. Hype-style subject lines (*"YOU'RE MISSING OUT!"*) drop open rates by 40-60% versus conversational ones (*"Did something go wrong?"*). The subject line must sound like a personal note, not a marketing campaign.
 
-**Permission language is non-negotiable.** Every email in the sequence must include at least one moment that gives the buyer permission to walk away. _"No hard feelings."_ _"The door stays open."_ _"Either way is okay."_ Without these, the sequence reads as pursuit, and pursuit damages long-term trust.
+**Permission language is non-negotiable.** Every email in the sequence must include at least one moment that gives the buyer permission to walk away. *"No hard feelings."* *"The door stays open."* *"Either way is okay."* Without these, the sequence reads as pursuit, and pursuit damages long-term trust.
 
 **Consistency with the funnel's overall voice.** The buyer just experienced the warm, intimate voice of the sales page and checkout page. The abandonment emails must continue that voice. A jarring tonal shift between the funnel and the abandonment sequence - from warm to corporate, or from intimate to aggressive - destroys trust at exactly the moment it should be rebuilt.
 
@@ -453,13 +453,13 @@ If anything broke, hit reply and I'll fix it personally. I read every email that
 
 Or if you just got pulled away - which happens to all of us - here's the link to pick up exactly where you left off:
 
-\[Link to checkout\]
+\[Link to checkout]
 
 And if you decided it wasn't for you, no hard feelings. Just hit reply with "not for me" and I'll stop the reminder emails. The free books you opted in for are still yours either way.
 
 Either way, I'm here.
 
-\[Founder Name\]
+\[Founder Name]
 
 PS - If you ran into any kind of error or technical issue, please tell me what happened. I genuinely want to know if something is broken so I can fix it for the next person.
 
@@ -473,7 +473,7 @@ I sent you a quick note yesterday checking in on your order. I figured today I'd
 
 A few months ago, a woman named Mark - pastor's wife, three kids, walking through her father's terminal diagnosis - sat on the bundle for three days before buying.
 
-She told me later: _"I kept thinking, I don't have time to read 10 books. I have time for one good one, maybe. But ten? With everything happening?"_
+She told me later: *"I kept thinking, I don't have time to read 10 books. I have time for one good one, maybe. But ten? With everything happening?"*
 
 What changed her mind was the realization that she didn't have to read all ten.
 
@@ -483,17 +483,17 @@ The Joseph book during a particularly hard week with her brother. The wilderness
 
 That's how the bundle is built. One main book that delivers the core revelation. Nine companions that wait quietly until the specific season hits - and then meet you exactly where you are.
 
-If _"I don't have time for 10 books"_ is what's been holding you back, I get it. But I want you to know - you don't need time for ten. You need the one main book, and the others are there for whenever life requires them.
+If *"I don't have time for 10 books"* is what's been holding you back, I get it. But I want you to know - you don't need time for ten. You need the one main book, and the others are there for whenever life requires them.
 
 If that helps, here's the link back to your order. Same place you left off:
 
-\[Link to checkout\]
+\[Link to checkout]
 
 And if it's still not the right time, no hard feelings. The free books are still serving you either way.
 
 More tomorrow - or no more, if you'd rather. Just say the word.
 
-\[Founder Name\]
+\[Founder Name]
 
 PS - If you have a specific question about whether this is a good fit for your situation, hit reply and tell me what's holding you back. I'll give you my honest take, even if it's "this isn't for you right now."
 
@@ -509,7 +509,7 @@ You started the order two days ago and didn't finish. I sent a check-in. I sent 
 
 The bundle is still waiting where you left it. Same price, same access, same guarantee. If you want it, here's the link:
 
-\[Link to checkout\]
+\[Link to checkout]
 
 There's a small bonus - the audio version of the main book - that I'm including for everyone who completes their order within 72 hours of starting. Yours expires tonight at midnight. If you complete after that, you'll still get the full bundle, but the audio bonus comes off.
 
@@ -521,13 +521,13 @@ Some of the people who eventually became my closest readers first abandoned a ca
 
 If tonight is the night, here's the link one more time:
 
-\[Link to checkout\]
+\[Link to checkout]
 
 If it's not, I'll see you in the next email - about something completely different.
 
 Either way, grateful you're here.
 
-\[Founder Name\]
+\[Founder Name]
 
 PS - If you want to be removed from any future emails, just hit reply and say "unsubscribe." I'll handle it manually. No hard feelings, ever.
 
@@ -541,7 +541,7 @@ When reviewing cart abandonment sequence output before delivery, scan for these 
 
 **Failure Mode 1: Hype-Driven Subject Lines**
 
-The subject lines use marketing voice (_"YOU'RE MISSING OUT!"_) instead of personal voice (_"Did something go wrong?"_). Open rates drop 40-60% and the entire sequence underperforms.
+The subject lines use marketing voice (*"YOU'RE MISSING OUT!"*) instead of personal voice (*"Did something go wrong?"*). Open rates drop 40-60% and the entire sequence underperforms.
 
 **Failure Mode 2: Missing Friction-Removal In Email 1**
 
@@ -599,27 +599,27 @@ Buyers who replied with "unsubscribe" or "not for me" still receive subsequent e
 
 Before delivering any cart abandonment sequence to the user, scan it against this checklist:
 
-- Does Email 1's subject line sound like a personal note, not a marketing campaign?
-- Does Email 1 lead with concern and friction-removal, not re-pitch?
-- Does Email 1 invite reply and offer to fix technical issues?
-- Does Email 1 provide a direct link back to checkout (not the sales page)?
-- Does Email 1 include a graceful decline path?
-- Does Email 2 use a specific story (named person, specific circumstances)?
-- Does Email 2 address one specific common hesitation, not stack multiple objections?
-- Does Email 2 invite a two-way conversation through the PS?
-- Does Email 3 signal closure rather than desperation?
-- Does Email 3 reference real deadlines only (no manufactured urgency)?
-- Does Email 3 include a graceful release section?
-- Does Email 3 offer a personal unsubscribe path?
-- Is the total sequence 3 emails over 48 hours, then ends?
-- Does no email in the sequence offer a discount?
-- Does no email apply manipulative pressure or guilt?
-- Does the voice match the rest of the funnel's voice?
-- Are all three emails mobile-formatted (short paragraphs, white space)?
-- Is the sequence configured to stop firing on completion or unsubscribe?
-- Does the sequence trigger reliably 1 hour after abandonment?
-- Are buyers who complete during the sequence properly transitioned to post-purchase sequence?
-- Is retargeting ad coverage in place for the same audience?
+* Does Email 1's subject line sound like a personal note, not a marketing campaign?
+* Does Email 1 lead with concern and friction-removal, not re-pitch?
+* Does Email 1 invite reply and offer to fix technical issues?
+* Does Email 1 provide a direct link back to checkout (not the sales page)?
+* Does Email 1 include a graceful decline path?
+* Does Email 2 use a specific story (named person, specific circumstances)?
+* Does Email 2 address one specific common hesitation, not stack multiple objections?
+* Does Email 2 invite a two-way conversation through the PS?
+* Does Email 3 signal closure rather than desperation?
+* Does Email 3 reference real deadlines only (no manufactured urgency)?
+* Does Email 3 include a graceful release section?
+* Does Email 3 offer a personal unsubscribe path?
+* Is the total sequence 3 emails over 48 hours, then ends?
+* Does no email in the sequence offer a discount?
+* Does no email apply manipulative pressure or guilt?
+* Does the voice match the rest of the funnel's voice?
+* Are all three emails mobile-formatted (short paragraphs, white space)?
+* Is the sequence configured to stop firing on completion or unsubscribe?
+* Does the sequence trigger reliably 1 hour after abandonment?
+* Are buyers who complete during the sequence properly transitioned to post-purchase sequence?
+* Is retargeting ad coverage in place for the same audience?
 
 If any answer is no, identify whether the issue is structural (a component is missing or extraneous), textural (voice or copy issue), or technical (sequence triggering, tagging, or tracking). All three categories must be corrected before launch.
 
@@ -656,3 +656,4 @@ The cart abandonment sequence is not a separate marketing campaign. It is the **
 When the sequence is built well, it recovers meaningful revenue at minimal cost while preserving the trust the rest of the funnel built. When the sequence is built carelessly or manipulatively, it produces marginal short-term gains and substantial long-term damage - sometimes destroying the long-term value of relationships that took the funnel months or years to develop.
 
 Build accordingly.
+

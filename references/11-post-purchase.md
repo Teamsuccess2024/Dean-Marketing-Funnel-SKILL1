@@ -1,4 +1,4 @@
-**post-purchase.md**
+**dean-funnel-builder/references/post-purchase.md**
 
 **PURPOSE OF THIS FILE**
 

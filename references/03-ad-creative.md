@@ -1,4 +1,4 @@
-**ad-creative.md**
+**dean-funnel-builder/references/ad-creative.md**
 
 **PURPOSE OF THIS FILE**
 
@@ -20,13 +20,13 @@ Dean's ads do the opposite. They are designed to **mirror and invite.**
 
 They mirror the viewer's internal state - the specific thought the viewer is already having when the ad appears in their feed. And they invite the viewer to do something small, low-risk, and immediately useful.
 
-The structure is not _"BUY THIS NOW BEFORE IT'S GONE!"_
+The structure is not *"BUY THIS NOW BEFORE IT'S GONE!"*
 
-The structure is _"If you're feeling \[specific thing\] right now, I might have something that helps. Free. No catch. Tap below if you want it."_
+The structure is *"If you're feeling \[specific thing] right now, I might have something that helps. Free. No catch. Tap below if you want it."*
 
 That tonal shift is the entire game. Dean's ads convert at significantly higher rates than market average not because they're more clever or more produced - but because they feel like a friend speaking instead of a stranger selling. In a feed full of strangers selling, the friend speaking wins by default.
 
-This file teaches how to consistently produce that _friend speaking_ quality across every ad format.
+This file teaches how to consistently produce that *friend speaking* quality across every ad format.
 
 **THE FOUR JOBS EVERY AD MUST DO**
 
@@ -40,17 +40,17 @@ If the thumb does not pause, nothing else matters.
 
 **Job 2: Confirm Relevance (Seconds 3-10)**
 
-Once the scroll stops, the viewer asks an unconscious question: _"Is this for me?"_ Your ad has 7 seconds to confirm yes - by mirroring the viewer's specific internal state with enough accuracy that they feel seen.
+Once the scroll stops, the viewer asks an unconscious question: *"Is this for me?"* Your ad has 7 seconds to confirm yes - by mirroring the viewer's specific internal state with enough accuracy that they feel seen.
 
 If relevance is not confirmed within 10 seconds, the scroll resumes.
 
 **Job 3: Earn The Trust (Seconds 10-45)**
 
-Now the viewer is leaning in. They're listening. The ad must use this window to deliver enough authentic value, story, or insight that the viewer believes the offered next step is worth taking. This is where Dean ads outperform - the middle of the ad is _genuinely useful,_ not a build-up to a pitch.
+Now the viewer is leaning in. They're listening. The ad must use this window to deliver enough authentic value, story, or insight that the viewer believes the offered next step is worth taking. This is where Dean ads outperform - the middle of the ad is *genuinely useful,* not a build-up to a pitch.
 
 **Job 4: Make The Click Easy (Final 5-15 Seconds)**
 
-The CTA is soft, specific, and low-risk. _"If you want this, tap below - I'll send it to you, no charge."_ The CTA never demands. It always invites.
+The CTA is soft, specific, and low-risk. *"If you want this, tap below - I'll send it to you, no charge."* The CTA never demands. It always invites.
 
 If you understand these four jobs and can articulate which seconds of the ad are doing which job, you can produce effective ad creative. If you cannot articulate this, the ad is structurally broken regardless of how well-written it is.
 
@@ -64,15 +64,15 @@ A complete Dean-style ad strategy uses five primary formats, each with a specifi
 
 **Description:** The founder talking directly to camera, in a casual real-life setting (home office, kitchen, car), one continuous take or near-continuous, no production polish, ideally shot on a phone.
 
-**Why this format wins:** It is the highest-trust format available because it is the _least produced._ In a feed full of polished video ads, a real human talking honestly into a phone camera signals authenticity by contrast. Production polish, in 2026, signals _marketing_ - and marketing is what the viewer is scrolling past.
+**Why this format wins:** It is the highest-trust format available because it is the *least produced.* In a feed full of polished video ads, a real human talking honestly into a phone camera signals authenticity by contrast. Production polish, in 2026, signals *marketing* - and marketing is what the viewer is scrolling past.
 
 **Key structural rules:**
 
-- First 3 seconds: a question, confession, or pattern-interrupt statement spoken directly to camera
-- No intro music, no logo flash, no "Hey everyone!" warm-up
-- The founder's eyes stay locked on the lens (this signals direct address)
-- One take if possible, or jump-cuts that preserve a single conversational thread
-- Subtitled (most Meta video is watched on mute)
+* First 3 seconds: a question, confession, or pattern-interrupt statement spoken directly to camera
+* No intro music, no logo flash, no "Hey everyone!" warm-up
+* The founder's eyes stay locked on the lens (this signals direct address)
+* One take if possible, or jump-cuts that preserve a single conversational thread
+* Subtitled (most Meta video is watched on mute)
 
 **This is the format that should be built first** for any new funnel. Other formats exist to support and supplement it.
 
@@ -82,14 +82,14 @@ A complete Dean-style ad strategy uses five primary formats, each with a specifi
 
 **Description:** A longer, more vulnerable version of the hook video. The founder tells a fuller story - the moment they realized this work mattered, the early failure, the breakthrough, the readers it's helped. Same casual production, longer runtime.
 
-**Why this format wins:** Some viewers need more time to trust. A 90-second hook is enough for the highest-intent buyers; the next layer needs the full story. The story video is what converts the viewer who _almost_ opted in.
+**Why this format wins:** Some viewers need more time to trust. A 90-second hook is enough for the highest-intent buyers; the next layer needs the full story. The story video is what converts the viewer who *almost* opted in.
 
 **Key structural rules:**
 
-- Open with a hook that references the previous ad ("If you saw my last video, you know I write about...")
-- Tell one specific story with named moments, not a montage
-- Don't sell the offer until at least the 3-minute mark
-- End with the same soft CTA as the hook video
+* Open with a hook that references the previous ad ("If you saw my last video, you know I write about...")
+* Tell one specific story with named moments, not a montage
+* Don't sell the offer until at least the 3-minute mark
+* End with the same soft CTA as the hook video
 
 **Format 3: The Static Image Ad**
 
@@ -101,10 +101,10 @@ A complete Dean-style ad strategy uses five primary formats, each with a specifi
 
 **Key structural rules:**
 
-- The image must feel real, not commercial - a candid photo beats a posed one
-- Overlay text under 12 words; ideally 6-9
-- The text states the offer or the question, not a claim about the offer
-- Avoid stock photos at all costs - they signal _advertisement_ before any text is read
+* The image must feel real, not commercial - a candid photo beats a posed one
+* Overlay text under 12 words; ideally 6-9
+* The text states the offer or the question, not a claim about the offer
+* Avoid stock photos at all costs - they signal *advertisement* before any text is read
 
 **Format 4: The Carousel Ad**
 
@@ -116,10 +116,10 @@ A complete Dean-style ad strategy uses five primary formats, each with a specifi
 
 **Key structural rules:**
 
-- Card 1 is a hook - not the first item in the list, but a question or statement that earns the swipe
-- Cards 2-N each preview one element with its own micro-headline
-- Final card is the CTA card with the offer summarized and the button text
-- Visual continuity across cards (same color palette, font, layout)
+* Card 1 is a hook - not the first item in the list, but a question or statement that earns the swipe
+* Cards 2-N each preview one element with its own micro-headline
+* Final card is the CTA card with the offer summarized and the button text
+* Visual continuity across cards (same color palette, font, layout)
 
 **Format 5: The Testimonial Video**
 
@@ -131,10 +131,10 @@ A complete Dean-style ad strategy uses five primary formats, each with a specifi
 
 **Key structural rules:**
 
-- Customer must be real and identifiable (consent obtained)
-- The testimonial focuses on transformation, not features
-- Founder may bookend with a brief intro and outro, but the customer carries the middle
-- Avoid scripted-sounding testimonials; preserve hesitations, pauses, real speech rhythm
+* Customer must be real and identifiable (consent obtained)
+* The testimonial focuses on transformation, not features
+* Founder may bookend with a brief intro and outro, but the customer carries the middle
+* Avoid scripted-sounding testimonials; preserve hesitations, pauses, real speech rhythm
 
 **THE HOOK: HOW TO STOP THE SCROLL IN 3 SECONDS**
 
@@ -146,9 +146,9 @@ A question that mirrors the viewer's internal monologue, asked into the camera w
 
 **Examples:**
 
-- _"Are you a Christian who's been wrestling with a question you're afraid to ask out loud?"_
-- _"Have you been waking up at 3am asking why God is letting this happen?"_
-- _"Do you ever feel like the usual Christian answers aren't reaching where you're actually hurting?"_
+* *"Are you a Christian who's been wrestling with a question you're afraid to ask out loud?"*
+* *"Have you been waking up at 3am asking why God is letting this happen?"*
+* *"Do you ever feel like the usual Christian answers aren't reaching where you're actually hurting?"*
 
 **Why it works:** The viewer mentally answers the question. Once their brain is engaged in answering, the scroll has stopped.
 
@@ -158,11 +158,11 @@ A statement that admits something real and slightly raw.
 
 **Examples:**
 
-- _"I almost didn't make this video."_
-- _"This is the message I've been afraid to put out."_
-- _"I rewrote what I'm about to say four times before I hit record."_
+* *"I almost didn't make this video."*
+* *"This is the message I've been afraid to put out."*
+* *"I rewrote what I'm about to say four times before I hit record."*
 
-**Why it works:** Confession signals _this is not a sales pitch._ The viewer's marketing-defense reflex deactivates.
+**Why it works:** Confession signals *this is not a sales pitch.* The viewer's marketing-defense reflex deactivates.
 
 **Hook Pattern 3: The Pattern Interrupt Statement**
 
@@ -170,9 +170,9 @@ A surprising or counterintuitive claim that creates a curiosity gap.
 
 **Examples:**
 
-- _"Most Christian books on suffering get the question completely backwards."_
-- _"What if the pain you're walking through right now isn't punishment - but preparation?"_
-- _"I used to teach the opposite of what I'm about to tell you."_
+* *"Most Christian books on suffering get the question completely backwards."*
+* *"What if the pain you're walking through right now isn't punishment - but preparation?"*
+* *"I used to teach the opposite of what I'm about to tell you."*
 
 **Why it works:** The brain cannot resolve a curiosity gap without more information. The scroll stops while the brain searches for resolution.
 
@@ -182,9 +182,9 @@ A statement that names the viewer's specific identity or situation so precisely 
 
 **Examples:**
 
-- _"If you're a Christian woman in your 40s walking through something hard right now..."_
-- _"If you've been a believer for 20+ years and you've hit a season you don't understand..."_
-- _"If you're a pastor whose own faith has felt thin lately..."_
+* *"If you're a Christian woman in your 40s walking through something hard right now..."*
+* *"If you've been a believer for 20+ years and you've hit a season you don't understand..."*
+* *"If you're a pastor whose own faith has felt thin lately..."*
 
 **Why it works:** The viewer sees themselves. The "is this for me?" question is answered before it's consciously asked.
 
@@ -194,9 +194,9 @@ A statement that names something the viewer has been carrying alone.
 
 **Examples:**
 
-- _"You're allowed to be angry at God. Even if no one at church says so."_
-- _"It's okay if your faith feels weaker than it used to. It doesn't mean you've fallen away."_
-- _"You can love Jesus and still be exhausted by Christian platitudes."_
+* *"You're allowed to be angry at God. Even if no one at church says so."*
+* *"It's okay if your faith feels weaker than it used to. It doesn't mean you've fallen away."*
+* *"You can love Jesus and still be exhausted by Christian platitudes."*
 
 **Why it works:** The viewer feels seen for an experience they thought was theirs alone. Connection happens before any pitch.
 
@@ -204,14 +204,14 @@ A statement that names something the viewer has been carrying alone.
 
 The following hook patterns underperform consistently and should be rejected:
 
-- **The corporate intro:** _"Hi everyone, I'm \[name\] and today I want to talk about..."_
-- **The hype opener:** _"You're not going to BELIEVE what I'm about to share."_
-- **The credential lead:** _"As a bestselling author of 200 books..."_
-- **The benefit list:** _"In this video I'll show you 5 ways to..."_
-- **The brand intro:** _"Welcome to the \[brand name\] channel..."_
-- **The vague tease:** _"What I'm about to share will change everything."_
+* **The corporate intro:** *"Hi everyone, I'm \[name] and today I want to talk about..."*
+* **The hype opener:** *"You're not going to BELIEVE what I'm about to share."*
+* **The credential lead:** *"As a bestselling author of 200 books..."*
+* **The benefit list:** *"In this video I'll show you 5 ways to..."*
+* **The brand intro:** *"Welcome to the \[brand name] channel..."*
+* **The vague tease:** *"What I'm about to share will change everything."*
 
-These patterns all share one fatal flaw: they signal _this is an advertisement_ in the first second. The thumb resumes scrolling.
+These patterns all share one fatal flaw: they signal *this is an advertisement* in the first second. The thumb resumes scrolling.
 
 **THE FULL HOOK VIDEO SCRIPT STRUCTURE (60-90 SECONDS)**
 
@@ -231,31 +231,31 @@ Spend the most rewriting time on this section. It's the conversion engine.
 
 **Section 3: The Permission (15-25 seconds)**
 
-A short statement that gives the viewer permission to feel what they're feeling. _"That doesn't make you a bad Christian. It makes you a human one. Job asked the same question. So did David. So did Jesus."_
+A short statement that gives the viewer permission to feel what they're feeling. *"That doesn't make you a bad Christian. It makes you a human one. Job asked the same question. So did David. So did Jesus."*
 
 This section disarms the shame the viewer is carrying about their own pain. Without this step, the viewer hears the rest of the ad through a filter of self-judgment, which kills receptivity.
 
 **Section 4: The Reframe Hint (25-40 seconds)**
 
-A _teaser_ of the framework or perspective the funnel ultimately delivers. Not the full teaching - a hint, a doorway. _"What if your pain isn't a detour from God's plan - what if it IS the plan? What if God doesn't waste suffering - what if He uses it to forge something He couldn't build any other way?"_
+A *teaser* of the framework or perspective the funnel ultimately delivers. Not the full teaching - a hint, a doorway. *"What if your pain isn't a detour from God's plan - what if it IS the plan? What if God doesn't waste suffering - what if He uses it to forge something He couldn't build any other way?"*
 
-This section creates the curiosity that drives the click. The viewer should feel: _I want to know more about this._
+This section creates the curiosity that drives the click. The viewer should feel: *I want to know more about this.*
 
 **Section 5: The Free Offer (40-60 seconds)**
 
-The specific, low-risk offer. _"I've put together 5 of my best books on this question - totally free. No catch, no upsell, just the books. If anything I've said tonight is hitting you, I want you to have them."_
+The specific, low-risk offer. *"I've put together 5 of my best books on this question - totally free. No catch, no upsell, just the books. If anything I've said tonight is hitting you, I want you to have them."*
 
 Be specific about what's offered. Vague offers ("a free guide") underperform specific ones ("5 free books"). The viewer needs to picture what they're getting.
 
 **Section 6: The Soft CTA (60-75 seconds)**
 
-The invitation to click, framed as low-pressure. _"Tap the link below this video, give me your email, and I'll send them right over. No spam, no nonsense - just the books in your inbox in the next two minutes."_
+The invitation to click, framed as low-pressure. *"Tap the link below this video, give me your email, and I'll send them right over. No spam, no nonsense - just the books in your inbox in the next two minutes."*
 
 Notice what's absent: no urgency, no countdown, no "act now." The CTA is a friend handing you a book, not a salesperson closing a deal.
 
 **Section 7: The Sign-Off (75-90 seconds)**
 
-A brief, warm close. _"Whatever you're walking through right now, you're not alone in it. Tap below - let me get these to you."_
+A brief, warm close. *"Whatever you're walking through right now, you're not alone in it. Tap below - let me get these to you."*
 
 The sign-off reinforces relationship over transaction.
 
@@ -275,24 +275,24 @@ On Meta, every video or image ad has accompanying primary text - the copy above 
 
 **Primary Text Example**
 
-_"Are you walking through something hard right now and the usual Christian answers aren't reaching it?_
+*"Are you walking through something hard right now and the usual Christian answers aren't reaching it?*
 
-_I get it. I've been there. The 3am questions, the verses that feel flat, the prayer that sounds hollow._
+*I get it. I've been there. The 3am questions, the verses that feel flat, the prayer that sounds hollow.*
 
-_That doesn't make you a bad Christian. It makes you a human one._
+*That doesn't make you a bad Christian. It makes you a human one.*
 
-_I've put together 5 of my best books on what God actually does in our suffering - totally free, no catch._
+*I've put together 5 of my best books on what God actually does in our suffering - totally free, no catch.*
 
-_Tap below - I'll send them straight to your inbox: \[link\]"_
+*Tap below - I'll send them straight to your inbox: \[link]"*
 
 **Primary Text Voice Rules**
 
-- Same voice as voice-guide.md: intimate, specific, restrained, earned
-- Maximum 6-8 short paragraphs
-- Heavy use of line breaks for mobile readability
-- One link, one CTA
-- No emoji unless the founder uses them naturally in their voice
-- No hashtags (Meta deprioritizes them in ads anyway)
+* Same voice as voice-guide.md: intimate, specific, restrained, earned
+* Maximum 6-8 short paragraphs
+* Heavy use of line breaks for mobile readability
+* One link, one CTA
+* No emoji unless the founder uses them naturally in their voice
+* No hashtags (Meta deprioritizes them in ads anyway)
 
 **HEADLINE AND DESCRIPTION FIELDS (META AD STRUCTURE)**
 
@@ -302,21 +302,21 @@ In addition to primary text and video/image, Meta ads include separate fields fo
 
 The headline appears under the video as the most prominent text. It should be:
 
-- A specific offer or specific outcome
-- Active, not passive
-- Free of jargon
+* A specific offer or specific outcome
+* Active, not passive
+* Free of jargon
 
 **Strong headlines:**
 
-- _"5 Free Christian Books On Suffering"_
-- _"Why God Allows Pain - Free Library"_
-- _"The Books I Wish I'd Had In My Hardest Year"_
+* *"5 Free Christian Books On Suffering"*
+* *"Why God Allows Pain - Free Library"*
+* *"The Books I Wish I'd Had In My Hardest Year"*
 
 **Weak headlines:**
 
-- _"Learn More About Christian Suffering"_
-- _"Click Here For Free Resources"_
-- _"Transform Your Faith Today"_
+* *"Learn More About Christian Suffering"*
+* *"Click Here For Free Resources"*
+* *"Transform Your Faith Today"*
 
 **Description Field (30 characters max)**
 
@@ -324,9 +324,9 @@ A reinforcement of the offer in even fewer words.
 
 **Examples:**
 
-- _"Instant download. No spam."_
-- _"Free. Yours in 2 minutes."_
-- _"5 books. Yours forever."_
+* *"Instant download. No spam."*
+* *"Free. Yours in 2 minutes."*
+* *"5 books. Yours forever."*
 
 **IMAGE AD COPY STRUCTURE**
 
@@ -336,59 +336,59 @@ When using static images, all conversion work happens in three places: the image
 
 The image must:
 
-- Feature a real human (the founder ideally, or a real customer with permission)
-- Be candid in feel - not posed, not retouched, not commercial
-- Have negative space for overlay text
-- Avoid stock photo aesthetics entirely
+* Feature a real human (the founder ideally, or a real customer with permission)
+* Be candid in feel - not posed, not retouched, not commercial
+* Have negative space for overlay text
+* Avoid stock photo aesthetics entirely
 
 **Overlay Text Rules**
 
-- 6-12 words maximum
-- High contrast (white text with subtle shadow on most backgrounds, or solid colored band behind text)
-- One sentence, not multiple
-- States the offer or asks the question - does not make claims about results
+* 6-12 words maximum
+* High contrast (white text with subtle shadow on most backgrounds, or solid colored band behind text)
+* One sentence, not multiple
+* States the offer or asks the question - does not make claims about results
 
 **Strong overlay examples:**
 
-- _"5 Free Christian Books On Why God Allows Suffering"_
-- _"Walking Through Something Hard? Read These First."_
-- _"What God Actually Says About Your Pain"_
+* *"5 Free Christian Books On Why God Allows Suffering"*
+* *"Walking Through Something Hard? Read These First."*
+* *"What God Actually Says About Your Pain"*
 
 **Weak overlay examples:**
 
-- _"Transform Your Faith In 30 Days!"_
-- _"The Secret To Spiritual Breakthrough"_
-- _"You Won't Believe What This Book Reveals"_
+* *"Transform Your Faith In 30 Days!"*
+* *"The Secret To Spiritual Breakthrough"*
+* *"You Won't Believe What This Book Reveals"*
 
 **CAROUSEL AD STRUCTURE**
 
-Carousels work best when the _swipe itself_ is part of the conversion mechanic - each card earns the next swipe.
+Carousels work best when the *swipe itself* is part of the conversion mechanic - each card earns the next swipe.
 
 **Card 1: The Hook**
 
 Not a list item. A question or statement that motivates the swipe.
 
-_"What does Scripture actually say about why God allows suffering?"_
+*"What does Scripture actually say about why God allows suffering?"*
 
 **Cards 2-6: The Reveal**
 
 Each card previews one element of the offer. Brief headline + supporting line.
 
-_Card 2: "Joseph's Pit - Why God lets you be betrayed before He promotes you."_ _Card 3: "The Refining Fire - What God burns off in the hard seasons."_ _Card 4: "The Wilderness Years - Why God takes His strongest servants through the desert first."_ _(...etc.)_
+*Card 2: "Joseph's Pit - Why God lets you be betrayed before He promotes you."* *Card 3: "The Refining Fire - What God burns off in the hard seasons."* *Card 4: "The Wilderness Years - Why God takes His strongest servants through the desert first."* *(...etc.)*
 
 **Final Card: The CTA**
 
 Summary of what's being offered + clear button text.
 
-_"All 5 books - free, instant download. Tap to send to your inbox."_
+*"All 5 books - free, instant download. Tap to send to your inbox."*
 
 **Visual Continuity**
 
 All cards must share:
 
-- Same color palette
-- Same font and text positioning
-- Same overall aesthetic
+* Same color palette
+* Same font and text positioning
+* Same overall aesthetic
 
 Visual breaks between cards reduce the perceived legitimacy of the offer.
 
@@ -412,7 +412,7 @@ For warm audiences: Story video (Format 2) and carousel ads (Format 4).
 
 For hot audiences: Testimonial videos (Format 5) and direct offer ads with clear pricing and bonuses.
 
-The same creative used across all three layers underperforms. The same _philosophy and voice_ used across all three layers, with creative calibrated to each, outperforms.
+The same creative used across all three layers underperforms. The same *philosophy and voice* used across all three layers, with creative calibrated to each, outperforms.
 
 **THE REGULATORY AND PLATFORM REALITY**
 
@@ -420,22 +420,22 @@ Ads are subject to platform policies that change frequently. While this file doe
 
 **Compliance Defaults**
 
-- Avoid making specific income, weight loss, or health claims
-- Avoid before/after framing in sensitive categories
-- Avoid implying knowledge of personal attributes ("you're depressed?" / "you have anxiety?")
-- Avoid creating false urgency
-- Avoid attacks on competitors
-- Avoid prohibited products entirely (some financial, some health)
+* Avoid making specific income, weight loss, or health claims
+* Avoid before/after framing in sensitive categories
+* Avoid implying knowledge of personal attributes ("you're depressed?" / "you have anxiety?")
+* Avoid creating false urgency
+* Avoid attacks on competitors
+* Avoid prohibited products entirely (some financial, some health)
 
-For Christian content specifically, most platforms allow it freely, but ads claiming to _heal_ depression or _cure_ anxiety through faith may be flagged. Frame around comfort, perspective, and resources - not medical claims.
+For Christian content specifically, most platforms allow it freely, but ads claiming to *heal* depression or *cure* anxiety through faith may be flagged. Frame around comfort, perspective, and resources - not medical claims.
 
 **When To Flag Platform Risk To The User**
 
 If the user requests creative that:
 
-- Promises specific outcomes the platform would flag
-- Targets sensitive personal attributes the platform restricts
-- Uses imagery the platform classifies as restricted
+* Promises specific outcomes the platform would flag
+* Targets sensitive personal attributes the platform restricts
+* Uses imagery the platform classifies as restricted
 
 …flag the issue, explain the risk, and offer a compliant alternative. **A great ad that doesn't run is worse than a good ad that does.**
 
@@ -447,10 +447,10 @@ Ad creative is not "written and shipped" - it's **tested and iterated** across c
 
 When the user asks for ad creative, default to producing:
 
-- **3-5 hook variations** (different opening 3 seconds for the same video script)
-- **2-3 primary text variations** (different opening lines for the same offer)
-- **2-3 headline variations**
-- **2-3 image overlay variations** (if static ads are part of the request)
+* **3-5 hook variations** (different opening 3 seconds for the same video script)
+* **2-3 primary text variations** (different opening lines for the same offer)
+* **2-3 headline variations**
+* **2-3 image overlay variations** (if static ads are part of the request)
 
 Multiple variants allow real-world A/B testing. Producing a single "best" version assumes a level of audience certainty that doesn't exist before launch.
 
@@ -458,18 +458,18 @@ Multiple variants allow real-world A/B testing. Producing a single "best" versio
 
 Briefly note after delivery:
 
-- Which variant is the safest starting point and why
-- What signals will indicate the creative is working (CTR thresholds, video view rates, cost per lead)
-- When to refresh creative (typical fatigue at 7-14 days on cold audiences)
-- What to vary next if initial tests underperform (hook is the highest-leverage variable, then primary text first line, then headline)
+* Which variant is the safest starting point and why
+* What signals will indicate the creative is working (CTR thresholds, video view rates, cost per lead)
+* When to refresh creative (typical fatigue at 7-14 days on cold audiences)
+* What to vary next if initial tests underperform (hook is the highest-leverage variable, then primary text first line, then headline)
 
 **VOICE CALIBRATION FOR ADS**
 
 Ads compress the voice into the smallest possible space. Every voice rule from voice-guide.md applies, with these specific adaptations:
 
-**Push intimacy harder.** The compressed format leaves no room for warm-up. The first sentence must already feel intimate. _"Friend, can I be honest?"_ in second one is not too soon - it's exactly right.
+**Push intimacy harder.** The compressed format leaves no room for warm-up. The first sentence must already feel intimate. *"Friend, can I be honest?"* in second one is not too soon - it's exactly right.
 
-**Push specificity harder.** A 60-second video has no room for vague language. Every noun should be concrete. _"3am"_ not _"late at night."_ _"the bottom stair"_ not _"my house."_ Specificity is even more critical in compressed format.
+**Push specificity harder.** A 60-second video has no room for vague language. Every noun should be concrete. *"3am"* not *"late at night."* *"the bottom stair"* not *"my house."* Specificity is even more critical in compressed format.
 
 **Push restraint harder.** The temptation in ad copy is to escalate - to use more exclamation points, more bold claims, more urgency. Resist completely. Restraint is what differentiates Dean ads from the feed.
 
@@ -481,31 +481,31 @@ When reviewing ad output before delivery, scan for these failure modes:
 
 **Failure Mode 1: The Generic Hook**
 
-The opening 3 seconds could apply to any audience, any niche, any product. _"Hey, want to learn how to grow your faith?"_ This hook will fail at scroll-stopping because it carries no specificity.
+The opening 3 seconds could apply to any audience, any niche, any product. *"Hey, want to learn how to grow your faith?"* This hook will fail at scroll-stopping because it carries no specificity.
 
 **Failure Mode 2: The Buried Lead**
 
-The actual hook appears at second 8 or 12 because the script has a warm-up. _"Hi everyone, hope you're having a great day. I wanted to share something with you today..."_ By second 8, the viewer is gone.
+The actual hook appears at second 8 or 12 because the script has a warm-up. *"Hi everyone, hope you're having a great day. I wanted to share something with you today..."* By second 8, the viewer is gone.
 
 **Failure Mode 3: The Pitch-First Structure**
 
-The ad opens with the offer rather than with the viewer's pain. _"I have a free 5-book bundle for you!"_ Without pain mirror first, the offer has no anchor.
+The ad opens with the offer rather than with the viewer's pain. *"I have a free 5-book bundle for you!"* Without pain mirror first, the offer has no anchor.
 
 **Failure Mode 4: The Production Tell**
 
-The script reads as a script. _"In today's video, I'm going to walk you through three reasons why..."_ Real friends don't talk like this. The voice is wrong.
+The script reads as a script. *"In today's video, I'm going to walk you through three reasons why..."* Real friends don't talk like this. The voice is wrong.
 
 **Failure Mode 5: The Hype Tone**
 
-_"This is going to be HUGE."_ _"You won't BELIEVE what I'm about to tell you."_ Hype tone signals advertisement and converts increasingly poorly across all platforms.
+*"This is going to be HUGE."* *"You won't BELIEVE what I'm about to tell you."* Hype tone signals advertisement and converts increasingly poorly across all platforms.
 
 **Failure Mode 6: The Vague Offer**
 
-_"Tap below to learn more."_ _"Click here for the resource."_ Specific offers convert better than vague ones. _"5 free books - yours in 2 minutes"_ beats _"free resource"_ every time.
+*"Tap below to learn more."* *"Click here for the resource."* Specific offers convert better than vague ones. *"5 free books - yours in 2 minutes"* beats *"free resource"* every time.
 
 **Failure Mode 7: The Hard CTA**
 
-_"BUY NOW."_ _"DON'T MISS OUT."_ _"ACT BEFORE IT'S GONE."_ The Dean voice never uses hard CTAs even on direct-response ads. Soft CTAs convert higher and refund lower.
+*"BUY NOW."* *"DON'T MISS OUT."* *"ACT BEFORE IT'S GONE."* The Dean voice never uses hard CTAs even on direct-response ads. Soft CTAs convert higher and refund lower.
 
 **Failure Mode 8: The Visual-Voice Mismatch**
 
@@ -515,28 +515,28 @@ The script is warm and intimate but the visuals are polished and commercial. Or 
 
 Before delivering any ad creative to the user, scan it against this checklist:
 
-- Does the first sentence (or first 3 seconds) stop the scroll without using hype?
-- Is the pain mirror specific, not generic?
-- Does permission language appear before any pitch?
-- Is the offer stated specifically (named items, not vague benefits)?
-- Is the CTA soft, with no hard pressure language?
-- Does the script sound spoken when read aloud?
-- Are there 3-5 hook variations included?
-- Is the primary text under 200 words and structured for mobile?
-- Is the headline under 40 characters and offer-specific?
-- Are platform compliance risks noted if any are present?
-- Does the voice match the founder's calibration from intake?
-- Could the entire ad be sent as a private message to a friend without embarrassment? (If no, voice has drifted toward marketing.)
+* Does the first sentence (or first 3 seconds) stop the scroll without using hype?
+* Is the pain mirror specific, not generic?
+* Does permission language appear before any pitch?
+* Is the offer stated specifically (named items, not vague benefits)?
+* Is the CTA soft, with no hard pressure language?
+* Does the script sound spoken when read aloud?
+* Are there 3-5 hook variations included?
+* Is the primary text under 200 words and structured for mobile?
+* Is the headline under 40 characters and offer-specific?
+* Are platform compliance risks noted if any are present?
+* Does the voice match the founder's calibration from intake?
+* Could the entire ad be sent as a private message to a friend without embarrassment? (If no, voice has drifted toward marketing.)
 
 **INTEGRATION WITH OTHER FILES**
 
 When this file is loaded alongside:
 
-- **philosophy.md** - Every ad must honor the 12 principles, especially Principles 1 (meet pain before pitch), 9 (permission over pressure), and 12 (honor buyer's intelligence). The hard CTA prohibition flows directly from these principles.
-- **voice-guide.md** - Ads compress voice into minimal space. The voice file's intimate/specific/restrained/earned framework applies more strictly here than anywhere else, because there's no room to recover from voice drift.
-- **lead-magnet-page.md** - The ad must hand off cleanly to the lead magnet page. The ad's offer language and the lead magnet page's headline should match closely enough that the visitor immediately recognizes they've arrived where they intended.
-- **intake-questionnaire.md** - Ad creative requires specific intake outputs: the buyer's exact pain language, the founder's origin story, the specific offer details, and the founder's voice calibration. Without these, ads default to generic.
-- **pricing-positioning.md** - Ads to cold audiences should not lead with price. Ads to warm audiences may include price if it's a strong differentiator. Ads to hot audiences (retargeting) often perform better with explicit pricing.
+* **philosophy.md** - Every ad must honor the 12 principles, especially Principles 1 (meet pain before pitch), 9 (permission over pressure), and 12 (honor buyer's intelligence). The hard CTA prohibition flows directly from these principles.
+* **voice-guide.md** - Ads compress voice into minimal space. The voice file's intimate/specific/restrained/earned framework applies more strictly here than anywhere else, because there's no room to recover from voice drift.
+* **lead-magnet-page.md** - The ad must hand off cleanly to the lead magnet page. The ad's offer language and the lead magnet page's headline should match closely enough that the visitor immediately recognizes they've arrived where they intended.
+* **intake-questionnaire.md** - Ad creative requires specific intake outputs: the buyer's exact pain language, the founder's origin story, the specific offer details, and the founder's voice calibration. Without these, ads default to generic.
+* **pricing-positioning.md** - Ads to cold audiences should not lead with price. Ads to warm audiences may include price if it's a strong differentiator. Ads to hot audiences (retargeting) often perform better with explicit pricing.
 
 **OUTPUT INSTRUCTIONS WHEN BUILDING ADS**
 
@@ -567,3 +567,4 @@ When this file is loaded, the AI is operating as the **front door builder** of t
 Ads do not sell the product. Ads sell **the next click.** The lead magnet page sells the email. The emails sell the trust. The sales page sells the offer. Every asset has a job, and the ad's job is the smallest one - but it gates everything downstream.
 
 Build accordingly.
+
