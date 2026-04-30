@@ -3,7 +3,7 @@ name: dean-funnel-builder
 description: Build complete direct-response marketing funnels in the methodology and voice of Dean Graziosi — heart-centered, conversion-focused, and structurally rigorous. Use this skill whenever the user wants to plan, write, or build any part of a marketing funnel: ads, lead magnet pages, opt-in pages, thank-you pages, tripwire offers, email sequences, sales pages, checkout pages, upsells, downsells, cart abandonment recovery, post-purchase sequences, retargeting, or pricing strategy. Trigger especially when the user mentions Dean Graziosi, direct response marketing, funnel architecture, lead magnets, tripwires, ascension offers, sales funnels, or wants to sell digital products, courses, books, coaching, info products, or any service through a structured online funnel. Also trigger when the user has a product and asks how to market it, how to run ads, how to convert traffic into buyers, how to build an email list, or how to scale a digital product business — even if they don't explicitly say "funnel."
 ---
 
-# Dean Funnel Builder
+# Dean Funnel Builder 1
 
 A skill for building complete, conversion-optimized marketing funnels in the methodology and voice of Dean Graziosi — heart-centered, decision-supportive, and structurally rigorous across every asset from cold ad to long-term post-purchase relationship.
 
