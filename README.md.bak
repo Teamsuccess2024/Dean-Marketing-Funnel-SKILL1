@@ -9,51 +9,51 @@ Here's how the skill is organized:
 
 ---
 
-dean-funnel-builder/
+**dean-funnel-builder/**
 
-├── SKILL.md                          (master instructions)
+├── **SKILL.md**                          (master instructions)
 
-├── references/
+├── **references/**
 
-│   ├── philosophy.md                 (Dean's master frame \& principles)
+│   ├── **philosophy.md**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(Dean's master frame \& principles)
 
-│   ├── voice-guide.md                (tone, language patterns, do's/don'ts)
+│   ├── **voice-guide.md**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(tone, language patterns, do's/don'ts)
 
-│   ├── ad-creative.md                (how to write hook ads)
+│   ├── **ad-creative.md**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(how to write hook ads)
 
-│   ├── lead-magnet-page.md           (every section, every job)
+│   ├── **lead-magnet-page.md**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(every section, every job)
 
-│   ├── thank-you-tripwire.md         (the secret weapon page)
+│   ├── **thank-you-tripwire.md**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(the secret weapon page)
 
-│   ├── email-sequences.md            (7-day sequence + long-term)
+│   ├── **email-sequences.md**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(7-day sequence + long-term)
 
-│   ├── sales-page.md                 (27-section sales page anatomy)
+│   ├── **sales-page.md**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(27-section sales page anatomy)
 
-│   ├── checkout-page.md              (order bump psychology)
+│   ├── **checkout-page.md**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(order bump psychology)
 
-│   ├── upsell-downsell.md            (post-purchase ascension)
+│   ├── **upsell-downsell.md**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(post-purchase ascension)
 
-│   ├── cart-abandonment.md           (recovery sequences)
+│   ├── **cart-abandonment.md**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(recovery sequences)
 
-│   ├── post-purchase.md              (consumption + testimonials)
+│   ├── **post-purchase.md**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(consumption + testimonials)
 
-│   ├── retargeting.md                (audience layers)
+│   ├── **retargeting.md**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(audience layers)
 
-│   └── pricing-positioning.md        (when $47 vs $97 vs $497)
+│   └── **pricing-positioning.md**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(when $47 vs $97 vs $497)
 
-├── templates/
+├── **templates/**
 
-│   ├── intake-questionnaire.md       (questions to ask before building)
+│   ├── **intake-questionnaire.md**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(questions to ask before building)
 
-│   ├── full-funnel-template.md       (skeleton for any niche)
+│   ├── **full-funnel-template.md**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(skeleton for any niche)
 
-│   └── voice-calibration.md          (matching the founder's voice)
+│   └── **voice-calibration.md**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(matching the founder's voice)
 
-└── examples/
+└── **examples/**
 
-&#x20;   ├── christian-bundle-example.md   (your suffering bundle)
+&#x20;   ├── **christian-bundle-example.md**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(your suffering bundle)
 
-&#x20;   ├── business-course-example.md
+&#x20;   ├── **business-course-example.md**
 
-&#x20;   └── coaching-program-example.md
+&#x20;   └── **coaching-program-example.md**
 

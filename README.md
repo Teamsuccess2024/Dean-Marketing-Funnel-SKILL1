@@ -39,19 +39,19 @@ Here's how the skill is organized:
 
 │   ├── **retargeting.md**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(audience layers)
 
-│   └── **pricing-positioning.md**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(when $47 vs $97 vs $497)
+│   └── **pricing-positioning.md**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(when $47 vs $97 vs $497)
 
 ├── **templates/**
 
-│   ├── **intake-questionnaire.md**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(questions to ask before building)
+│   ├── **intake-questionnaire.md**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(questions to ask before building)
 
-│   ├── **full-funnel-template.md**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(skeleton for any niche)
+│   ├── **full-funnel-template.md**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(skeleton for any niche)
 
-│   └── **voice-calibration.md**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(matching the founder's voice)
+│   └── **voice-calibration.md**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(matching the founder's voice)
 
 └── **examples/**
 
-&#x20;   ├── **christian-bundle-example.md**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(your suffering bundle)
+&#x20;   ├── **christian-bundle-example.md**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(your suffering bundle)
 
 &#x20;   ├── **business-course-example.md**
 
